@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29b1ec94b0de8125",
+        "id": "c9d3861c0af6f8c7",
         "type": "tabs",
         "children": [
           {
-            "id": "8e80642666fcbf2d",
+            "id": "9701a1d46c3704da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Data structures and Algorithms.md",
+                "file": "1 - Rough Notes/Big O.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data structures and Algorithms"
+              "title": "Big O"
             }
           }
         ]
@@ -167,20 +167,30 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "8e80642666fcbf2d",
+  "active": "9701a1d46c3704da",
   "lastOpenFiles": [
-    "1 - Rough Notes/Iteration through subset time complexity.md",
     "1 - Rough Notes/Data structures and Algorithms.md",
+    "1 - Rough Notes/Efficient Algorithms.md",
+    "1 - Rough Notes/Big O.md",
+    "1 - Rough Notes/Time complexity for Iteration through subset.md",
+    "2 - Source Material/Videos/NeetCode.md",
+    "Pasted image 20250805230301.png",
+    "Pasted image 20250805230231.png",
+    "Pasted image 20250805225908.png",
+    "Pasted image 20250805225342.png",
+    "Pasted image 20250805225034.png",
+    "Pasted image 20250805224935.png",
+    "Pasted image 20250805224357.png",
+    "Pasted image 20250805223919.png",
+    "Pasted image 20250805223234.png",
+    "Pasted image 20250805221918.png",
+    "2 - Source Material/Course/NPTEL.md",
+    "1 - Rough Notes/Fibonacci.md",
     "3 - Tags/complexity.md",
     "2 - Source Material/chatbot/chatgpt.md",
     "2 - Source Material/chatbot",
     "1 - Rough Notes/The golden ratio.md",
     "3 - Tags/Computer science.md",
-    "1 - Rough Notes/Fibonacci.md",
-    "Pasted image 20250804222326.png",
-    "Pasted image 20250804222646.png",
-    "Pasted image 20250804222701.png",
-    "14.webp",
     "README.md",
     "3 - Tags/Universal math.md",
     "1 - Rough Notes/Universal Math.md",

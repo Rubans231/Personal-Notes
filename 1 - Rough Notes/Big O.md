@@ -10,7 +10,7 @@ Tags: [[algorithm]] [[Data structures and Algorithms]] [[coding]] [[interview]] 
 # Big O
 
 > - Big O is used to represent the time complexity of algorithms.
-> - if we have a complexity of for example O(n+nlogn), we would only consider the bigger value which is nlogn and we would neglect n(this would give the complexity of Big O to now be O(nlogn)) But this is not applicable if the complexity was instead O(m+nlogn) since m is not a variable in the nlogn and m could potentially be a bigger term.
+> - if we have a complexity of for example O(n+nlogn), we would only consider the bigger value which is nlogn and we would neglect n since Big O calculates the worst case scenario (this would give the complexity of Big O to now be O(nlogn)) But this is not applicable if the complexity was instead O(m+nlogn) since m is not a variable in the nlogn and m could potentially be a bigger term.
 > - Big O is the upper bound("The algorithm takes **at most** this much time.") (Worst case scenario)
 >- It's a graph between input size and Time.
 >- If input size is bigger, time taken naturally grows, this could be linear growth, logarthimic, exponential, etc..

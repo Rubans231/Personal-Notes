@@ -24,6 +24,10 @@ Example: Sorting
 >	
 >	the better solution depends upon the input 'n' in this scenario
 
+How do you design efficient algorithms?
+	>With creativity and preservance
+
+
 
 
 

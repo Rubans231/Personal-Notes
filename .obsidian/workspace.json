@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Big O.md",
+                "file": "1 - Rough Notes/Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big O"
+              "title": "Data Structures"
             }
           }
         ]
@@ -169,10 +169,13 @@
   },
   "active": "b34abbdaa12f76cb",
   "lastOpenFiles": [
-    "visual References",
     "1 - Rough Notes/Data structures and Algorithms.md",
-    "1 - Rough Notes/Efficient Algorithms.md",
     "1 - Rough Notes/Big O.md",
+    "1 - Rough Notes/Data Structures.md",
+    "visual References/Pasted image 20250806213014.png",
+    "1 - Rough Notes/Efficient Algorithms.md",
+    "1 - Rough Notes/TO DO.md",
+    "visual References",
     "1 - Rough Notes/Time complexity for Iteration through subset.md",
     "2 - Source Material/Videos/NeetCode.md",
     "visual References/Pasted image 20250805230301.png",
@@ -184,7 +187,6 @@
     "visual References/Pasted image 20250805224357.png",
     "visual References/Pasted image 20250805223919.png",
     "visual References/Pasted image 20250805223234.png",
-    "visual References/Pasted image 20250805221918.png",
     "2 - Source Material/Course/NPTEL.md",
     "1 - Rough Notes/Fibonacci.md",
     "3 - Tags/complexity.md",

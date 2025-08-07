@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Data Structures.md",
+                "file": "1 - Rough Notes/TO DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structures"
+              "title": "TO DO"
             }
           }
         ]
@@ -167,14 +167,31 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b34abbdaa12f76cb",
+  "active": "9701a1d46c3704da",
   "lastOpenFiles": [
+    "1 - Rough Notes/Claude Opus 4.1.md",
+    "2 - Source Material/Videos/Matthew Berman.md",
+    "Pasted image 20250807223836.png",
+    "Pasted image 20250807223712.png",
+    "1 - Rough Notes/GPT-oss.md",
+    "3 - Tags/Anthropic.md",
+    "1 - Rough Notes/Google's genie 3.md",
+    "1 - Rough Notes/LLMs(Large language models).md",
+    "1 - Rough Notes/NLP(Natural language processing).md",
+    "Pasted image 20250807223026.png",
+    "3 - Tags/OpenAI.md",
+    "3 - Tags/Google.md",
+    "2 - Source Material/Videos/Fireship.md",
+    "3 - Tags/machine learning.md",
+    "3 - Tags/learning.md",
+    "3 - Tags/Hugging face.md",
+    "1 - Rough Notes/TO DO.md",
+    "1 - Rough Notes/Article websites.md",
+    "1 - Rough Notes/Data Structures.md",
     "1 - Rough Notes/Data structures and Algorithms.md",
     "1 - Rough Notes/Big O.md",
-    "1 - Rough Notes/Data Structures.md",
     "visual References/Pasted image 20250806213014.png",
     "1 - Rough Notes/Efficient Algorithms.md",
-    "1 - Rough Notes/TO DO.md",
     "visual References",
     "1 - Rough Notes/Time complexity for Iteration through subset.md",
     "2 - Source Material/Videos/NeetCode.md",
@@ -184,24 +201,12 @@
     "visual References/Pasted image 20250805225342.png",
     "visual References/Pasted image 20250805225034.png",
     "visual References/Pasted image 20250805224935.png",
-    "visual References/Pasted image 20250805224357.png",
-    "visual References/Pasted image 20250805223919.png",
-    "visual References/Pasted image 20250805223234.png",
     "2 - Source Material/Course/NPTEL.md",
     "1 - Rough Notes/Fibonacci.md",
     "3 - Tags/complexity.md",
     "2 - Source Material/chatbot/chatgpt.md",
     "2 - Source Material/chatbot",
     "1 - Rough Notes/The golden ratio.md",
-    "3 - Tags/Computer science.md",
-    "README.md",
-    "3 - Tags/Universal math.md",
-    "1 - Rough Notes/Universal Math.md",
-    "3 - Tags/interview.md",
-    "3 - Tags/algorithm.md",
-    "3 - Tags/coding.md",
-    "1 - Rough Notes/Untitled",
-    "hehe.md",
-    "5 - Template/Default.md"
+    "1 - Rough Notes/Untitled"
   ]
 }

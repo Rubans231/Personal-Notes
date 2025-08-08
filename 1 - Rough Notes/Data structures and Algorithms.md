@@ -45,7 +45,7 @@ Tags: [[Computer science]] [[coding]] [[algorithm]] [[interview]]
 >	
 >	solution ideas:
 >		Try all subsets B belongs to A and check
->		(The time taken for this approach would be n.$2^n$) [[Time complexity for Iteration through subset]] 
+>		(The time taken for this approach would be n.$2^n$) 
 
 
 

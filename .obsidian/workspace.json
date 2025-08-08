@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d3861c0af6f8c7",
+        "id": "83ffeb82a2b485de",
         "type": "tabs",
         "children": [
           {
-            "id": "9701a1d46c3704da",
+            "id": "e776d38f53428c9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/TO DO.md",
+                "file": "1 - Rough Notes/web scraper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO DO"
+              "title": "web scraper"
             }
           }
         ]
@@ -167,46 +167,46 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "9701a1d46c3704da",
+  "active": "e776d38f53428c9a",
   "lastOpenFiles": [
+    "1 - Rough Notes/Two sum.md",
+    "1 - Rough Notes/web scraper.md",
+    "3 - Tags/tools.md",
+    "3 - Tags/websites.md",
+    "2 - Source Material/Videos/alex.md",
+    "1 - Rough Notes/Mask filling.md",
+    "1 - Rough Notes/Pipeline().md",
+    "1 - Rough Notes/Virtual environments.md",
+    "1 - Rough Notes/Zero shot classification.md",
+    "1 - Rough Notes/Data structures and Algorithms.md",
+    "Time complexity for Iteration through subset.md",
+    "1 - Rough Notes/inference providers.md",
+    "Pasted image 20250808125804.png",
+    "visual References/Pasted image 20250808125005.png",
+    "1 - Rough Notes/NLP(Natural language processing).md",
+    "2 - Source Material/Course/Hugging face.md",
+    "1 - Rough Notes/Transformers.md",
+    "3 - Tags/Hugging face.md",
+    "1 - Rough Notes/LLMs(Large language models).md",
+    "visual References/Pasted image 20250808121426.png",
+    "3 - Tags/python.md",
+    "visual References/Pasted image 20250808113136.png",
+    "1 - Rough Notes/Big O.md",
+    "1 - Rough Notes/Article websites.md",
+    "1 - Rough Notes/TO DO.md",
     "1 - Rough Notes/Claude Opus 4.1.md",
     "2 - Source Material/Videos/Matthew Berman.md",
-    "Pasted image 20250807223836.png",
-    "Pasted image 20250807223712.png",
+    "visual References/Pasted image 20250807223836.png",
+    "visual References/Pasted image 20250807223712.png",
     "1 - Rough Notes/GPT-oss.md",
     "3 - Tags/Anthropic.md",
     "1 - Rough Notes/Google's genie 3.md",
-    "1 - Rough Notes/LLMs(Large language models).md",
-    "1 - Rough Notes/NLP(Natural language processing).md",
-    "Pasted image 20250807223026.png",
-    "3 - Tags/OpenAI.md",
-    "3 - Tags/Google.md",
-    "2 - Source Material/Videos/Fireship.md",
-    "3 - Tags/machine learning.md",
-    "3 - Tags/learning.md",
-    "3 - Tags/Hugging face.md",
-    "1 - Rough Notes/TO DO.md",
-    "1 - Rough Notes/Article websites.md",
-    "1 - Rough Notes/Data Structures.md",
-    "1 - Rough Notes/Data structures and Algorithms.md",
-    "1 - Rough Notes/Big O.md",
+    "visual References/Pasted image 20250807223026.png",
     "visual References/Pasted image 20250806213014.png",
-    "1 - Rough Notes/Efficient Algorithms.md",
     "visual References",
-    "1 - Rough Notes/Time complexity for Iteration through subset.md",
-    "2 - Source Material/Videos/NeetCode.md",
     "visual References/Pasted image 20250805230301.png",
     "visual References/Pasted image 20250805230231.png",
-    "visual References/Pasted image 20250805225908.png",
-    "visual References/Pasted image 20250805225342.png",
-    "visual References/Pasted image 20250805225034.png",
-    "visual References/Pasted image 20250805224935.png",
-    "2 - Source Material/Course/NPTEL.md",
-    "1 - Rough Notes/Fibonacci.md",
-    "3 - Tags/complexity.md",
-    "2 - Source Material/chatbot/chatgpt.md",
     "2 - Source Material/chatbot",
-    "1 - Rough Notes/The golden ratio.md",
     "1 - Rough Notes/Untitled"
   ]
 }

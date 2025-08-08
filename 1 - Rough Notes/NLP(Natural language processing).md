@@ -26,3 +26,4 @@ Tags: [[Hugging face]] [[machine learning]] [[learning]] [[coding]] [[Computer s
 
 
 # References
+https://huggingface.co/learn/llm-course/chapter1/3?fw=pt

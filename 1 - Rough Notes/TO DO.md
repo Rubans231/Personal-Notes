@@ -15,267 +15,131 @@ learn japanese - https://youtube.com/shorts/OdPQOyarROM?si=gCwGE7gb58b7haJE (Bes
 ## Projects
 https://www.youtube.com/watch?v=cAkMcPfY_Ns&list=TLPQMDcwODIwMjX7RDN5u0VqJA&index=2(Neural network from scratch)
 
-# **45-Day ML Engineer Roadmap**
+## **Daily Structure**
 
-**Assumption**: You can dedicate **3–5 hours/day** consistently. If not, I can break it into a 60-day or weekend-focused version.
-
----
-
-## ⚙️ Structure Overview
-
-|Week|Focus|Deliverables|
-|---|---|---|
-|1|Hugging Face, LLMs, LangChain basics|Complete Hugging Face course, prep for RAG|
-|2|Build RAG-based chatbot (FAISS/Pinecone)|RAG pipeline + chatbot UI|
-|3|Finish chatbot + deploy with Docker|Live deployed chatbot|
-|4|Fine-tune Transformer model + evaluate|Model + visualized metrics|
-|5|Deploy fine-tuned model + set up CI/CD|API + Docker + GitHub Actions|
-|6|Learn Cloud (AWS/GCP), monitor models|Live cloud deployment + dashboard|
-
----
-
-## 🧠 **Week-by-Week Breakdown**
-
----
-
-### 📘 **Week 1: Learn LLMs, Hugging Face, LangChain**
-
-#### 🧩 Goals:
-
-- Understand Transformers, Tokenizers
+- **2 hrs – Core ML Skills** (theory + coding)
     
-- Master Hugging Face ecosystem (datasets, trainer, inference)
+- **3 hrs – Project Work** (progress on flagship + sub-projects)
     
-- Learn LangChain concepts (prompt templates, chains, memory)
+- **30 min – Industry Awareness** (Rakuten news, tech blogs, ML papers)
     
-
-#### 📚 Resources:
-
-- ✅ Hugging Face Course
-    
-- ✅ LangChain Quickstart
-    
-
-#### 🛠️ Tasks:
-
--  Complete Hugging Face course (10 chapters)
-    
--  Try 2 examples using pre-trained models (`text-generation`, `question-answering`)
-    
--  Test LangChain’s basic prompt chain with OpenAI or `llama2` locally
-    
-
-#### ✅ Deliverable:
-
-- GitHub repo with basic Hugging Face model loading and inference
-    
-- Notes or blog: _“Intro to LLMs using Hugging Face”_
+- **30 min – Documentation/Public Profile** (GitHub commits, blog/LinkedIn updates)
     
 
 ---
 
-### 🤖 **Week 2: RAG Chatbot with LangChain + FAISS/Pinecone**
+## **WEEK 1 – LLMs, Hugging Face, LangChain Fundamentals**
 
-#### 🧩 Goals:
+**Goal:** Build core skills in LLMs & frameworks, start Rakuten AI Toolkit repo.
 
-- Create a RAG pipeline using PDF/website knowledge
-    
-- Add a basic UI (Streamlit or FastAPI)
-    
-
-#### 📚 Resources:
-
-- [YouTube: Greg Kamradt's RAG Chatbot](https://www.youtube.com/watch?v=j0LzFjPaQt4)
-    
-- LangChain RAG Docs
-    
-
-#### 🛠️ Tasks:
-
--  Extract text from PDFs or websites
-    
--  Convert to embeddings using `SentenceTransformer` or `OpenAIEmbeddings`
-    
--  Store in FAISS / Pinecone
-    
--  Integrate retrieval with GPT using LangChain
-    
--  Build chatbot UI with Streamlit or FastAPI
-    
-
-#### ✅ Deliverable:
-
-- Working chatbot hosted locally or on `Render`
-    
-- GitHub README + demo video
-    
+|Day|Core Skills|Project Work|Industry Awareness|Public Profile|
+|---|---|---|---|---|
+|1|Read Hugging Face Course Ch. 1–2 (Transformers, Tokenizers)|Create “Rakuten AI Toolkit” GitHub repo|Google Alerts for “Rakuten India” & follow Rakuten Eng Blog|LinkedIn post: “Starting my 45-Day ML Internship Bootcamp”|
+|2|HF Ch. 3–4 (Datasets, Trainer)|Load pretrained model (`bert-base-uncased`) & run inference|Read Rakuten AI-related blog post|Commit inference code|
+|3|HF Ch. 5–6 (Inference API, Pipelines)|Test `text-generation` & `question-answering`|Read 1 arXiv paper on LLMs|Write short summary in repo README|
+|4|HF Ch. 7–8 (Training basics)|Build simple sentiment classifier using HF pipeline|Explore FAISS basics|Commit code + requirements.txt|
+|5|HF Ch. 9–10 (Custom training loops)|Run local fine-tune on small dataset|Read “LangChain Prompt Templates” docs|LinkedIn post: “Intro to Hugging Face for LLMs”|
+|6|LangChain Quickstart (prompt templates, chains, memory)|Create basic prompt chain with OpenAI API or LLaMA2|Read Rakuten search/recommendation patent|Push LangChain example|
+|7|Review & mini quiz (self-test)|Document Rakuten AI Toolkit|Skim Hacker News ML posts|Weekly blog: “Week 1 – From Hugging Face to LangChain”|
 
 ---
 
-### 🐳 **Week 3: Productionize the Chatbot (Docker + Deploy)**
+## **WEEK 2 – RAG Chatbot (Rakuten Domain)**
 
-#### 🧩 Goals:
+**Goal:** Build RAG pipeline using Rakuten-style data.
 
-- Dockerize the chatbot app
-    
-- Deploy to `Render`, `Railway`, or `AWS EC2`
-    
-- Optional: Add user auth + query logging
-    
-
-#### 📚 Resources:
-
-- [Docker Crash Course](https://www.youtube.com/watch?v=fqMOX6JJhGo)
-    
-- Deploy FastAPI with Docker
-    
-
-#### 🛠️ Tasks:
-
--  Write Dockerfile + requirements
-    
--  Test locally with Docker Compose
-    
--  Deploy to Render or EC2
-    
--  Optional: Use NGINX as reverse proxy
-    
-
-#### ✅ Deliverable:
-
-- Live link to deployed chatbot
-    
-- GitHub repo with `Dockerfile`, setup instructions
-    
+|Day|Core Skills|Project Work|Industry Awareness|Public Profile|
+|---|---|---|---|---|
+|8|Read LangChain RAG docs|Collect Rakuten product docs/news for dataset|Read 1 recsys paper on arXiv|Commit data collection script|
+|9|SentenceTransformer embeddings|Convert data to vector embeddings|Read about Pinecone vs FAISS|Push embeddings code|
+|10|FAISS basics (index, search)|Build FAISS index for product Q&A|Read Rakuten personalization blog|LinkedIn post: “Building a Rakuten RAG index”|
+|11|LangChain RetrievalQA|Connect FAISS → GPT → LangChain chain|Read about GPT-4 retrieval|Commit RetrievalQA script|
+|12|Streamlit basics|Add chatbot UI for local testing|Explore Rakuten front-end jobs for UI ideas|Push Streamlit app|
+|13|Integration testing|Chatbot functional on local|Read MLOps for RAG blog|Record demo video|
+|14|Review & refine|Weekly test session|Read LangChain community discussions|Blog: “Week 2 – My RAG Chatbot Journey”|
 
 ---
 
-### 🔬 **Week 4: Fine-tune Transformer Model on Custom Data**
+## **WEEK 3 – Productionizing the Chatbot**
 
-#### 🧩 Goals:
+**Goal:** Make it deployable, secure, and monitored.
 
-- Choose dataset (e.g., IMDB, Hate Speech, StackOverflow)
-    
-- Fine-tune BERT/RoBERTa for classification
-    
-- Track experiments with W&B or MLflow
-    
-
-#### 📚 Resources:
-
-- Hugging Face Fine-tuning
-    
-- Kaggle Datasets
-    
-
-#### 🛠️ Tasks:
-
--  Load dataset using HF Datasets
-    
--  Tokenize + fine-tune with `Trainer`
-    
--  Log results + visualize metrics
-    
--  Export model + test inference
-    
-
-#### ✅ Deliverable:
-
-- GitHub repo: fine-tuning project with Jupyter notebook
-    
-- README with results and graphs
-    
+|Day|Core Skills|Project Work|Industry Awareness|Public Profile|
+|---|---|---|---|---|
+|15|Docker basics|Write Dockerfile for chatbot|Read Rakuten cloud infrastructure news|Commit Dockerfile|
+|16|Docker Compose|Add FAISS persistence in container|Read about container scaling|Push docker-compose.yml|
+|17|FastAPI for backend|Convert chatbot to FastAPI API|Read API gateway basics|Commit API version|
+|18|NGINX reverse proxy|Secure endpoint|Read Rakuten site performance case study|Push config|
+|19|Render/Railway deploy|Deploy containerized chatbot|Read Kubernetes basics|Share live link|
+|20|User auth basics|Add token-based auth|Read OWASP ML security notes|Commit auth code|
+|21|Weekly review|Stress test chatbot|Read Hacker News on LLM security|Blog: “Week 3 – Shipping My First AI Product”|
 
 ---
 
-### ☁️ **Week 5: API + CI/CD + Docker + Monitoring**
+## **WEEK 4 – Fine-Tuning for Rakuten Use Case**
 
-#### 🧩 Goals:
+**Goal:** Add domain-specific ML capabilities.
 
-- Package model into FastAPI + Docker
-    
-- Automate retraining/deployment via GitHub Actions
-    
-- Learn basic monitoring with Prometheus + Grafana
-    
-
-#### 📚 Resources:
-
-- Made With ML - Deployment
-    
-- Monitor ML models
-    
-
-#### 🛠️ Tasks:
-
--  Create FastAPI endpoint for prediction
-    
--  Add Docker support
-    
--  Set up GitHub Actions: push = redeploy
-    
--  Optional: Add Prometheus logging
-    
-
-#### ✅ Deliverable:
-
-- API live with test inputs
-    
-- Screenshot or video demo of monitoring setup
-    
+|Day|Core Skills|Project Work|Industry Awareness|Public Profile|
+|---|---|---|---|---|
+|22|Review fine-tuning theory|Pick dataset (e.g., product sentiment)|Read Rakuten customer experience case study|Share dataset choice|
+|23|HF Datasets loading|Prepare dataset|Read paper on product recommendation ML|Commit dataset preprocessing|
+|24|Tokenization + training loop|Fine-tune BERT/RoBERTa|Read Hugging Face blog on LoRA|Push training code|
+|25|Experiment tracking (W&B/MLflow)|Log fine-tuning runs|Read about ML model evaluation|Share W&B dashboard|
+|26|Inference testing|Integrate fine-tuned model into chatbot|Read Rakuten AI API docs|Commit integration|
+|27|Evaluation & improvement|Improve accuracy/F1|Read model bias/fairness paper|Update README with results|
+|28|Weekly review|Test chatbot with new feature|Read LangChain integration case studies|Blog: “Week 4 – Fine-tuning BERT for E-commerce AI”|
 
 ---
 
-### 🌍 **Week 6: Cloud & Final Polish**
+## **WEEK 5 – MLOps: CI/CD, Monitoring**
 
-#### 🧩 Goals:
+**Goal:** Automate deployment and monitor chatbot.
 
-- Learn AWS basics (S3, EC2, Lambda)
-    
-- Deploy app to AWS or GCP
-    
-- Final polish on portfolio + GitHub
-    
-
-#### 📚 Resources:
-
-- AWS Machine Learning Essentials
-    
-- Google Cloud ML Engineer Path
-    
-
-#### 🛠️ Tasks:
-
--  Create S3 bucket and upload dataset
-    
--  Launch EC2 instance and deploy Docker container
-    
--  Optional: Set up CloudWatch logs
-    
--  Write LinkedIn post about your journey
-    
-
-#### ✅ Deliverable:
-
-- Hosted app or model on AWS/GCP
-    
-- Updated resume + LinkedIn
-    
-- GitHub portfolio with 2 polished projects
-    
+|Day|Core Skills|Project Work|Industry Awareness|Public Profile|
+|---|---|---|---|---|
+|29|GitHub Actions basics|Auto-deploy on push|Read MLOps at scale blog|Commit CI workflow|
+|30|Model packaging|Bundle chatbot + model|Read about Rakuten deployment strategies|Push packaged build|
+|31|Prometheus basics|Set up basic metrics|Read Grafana dashboards|Commit metrics setup|
+|32|Grafana visualization|Create dashboard|Read cloud monitoring best practices|Share screenshot|
+|33|Logging & alerts|Add logging to FastAPI|Read ML logging tools|Push logging code|
+|34|Testing pipeline|Simulate retraining|Read MLOps failures case studies|Share pipeline video|
+|35|Weekly review|Finalize CI/CD + monitoring|Read Hacker News ML threads|Blog: “Week 5 – My First MLOps Pipeline”|
 
 ---
 
-## 📘 Bonus Tips:
+## **WEEK 6 – Cloud, Portfolio, Networking**
 
-- Use **Notion** or **Trello** to track daily tasks.
-    
-- Start a **GitHub project board** to show real-world planning.
-    
-- Use `README.md` to narrate your journey — it _really impresses recruiters_.
-    
-- If you're comfortable, post a weekly devlog or short demo on **LinkedIn** or **X** (Twitter).
+**Goal:** Host final product, polish resume, make profile recruiter-ready.
 
+|Day|Core Skills|Project Work|Industry Awareness|Public Profile|
+|---|---|---|---|---|
+|36|AWS S3 basics|Upload dataset/model|Read AWS ML service case study|Commit AWS setup|
+|37|AWS EC2 deploy|Deploy chatbot container|Read GCP AI blog|Share live EC2 link|
+|38|CloudWatch basics|Set up logs|Read about cost optimization|Commit logs setup|
+|39|Resume deep clean|Add projects + metrics|Read resume tips for ML engineers|Push updated resume to LinkedIn|
+|40|Portfolio website|Build with GitHub Pages|Read about personal branding|Publish site|
+|41|Mock interview 1|Technical round simulation|Read Rakuten interview experience|Share learnings post|
+|42|Mock interview 2|System design simulation|Read system design tips|Push system diagrams to repo|
+|43|Final testing|Test full chatbot + fine-tune features|Read final ML trends newsletter|Record 3-min demo video|
+|44|Public release|Announce final project on LinkedIn + Twitter|Engage with Rakuten engineers online|Post video + repo link|
+|45|Reflection & next steps|Write blog summarizing 45 days|Read job postings to adjust skill plan|Blog: “My 45-Day ML Internship Bootcamp Journey”|
+
+---
+
+## **Outcome by Day 45**
+
+- **1 flagship integrated system**: Rakuten-style AI Assistant (RAG chatbot + fine-tuned model + monitoring + cloud hosting)
+    
+- **3–4 smaller sub-projects** from stages of development
+    
+- **Professional GitHub** with clean READMEs and commits every week
+    
+- **3+ blog posts + LinkedIn updates** showing expertise and growth
+    
+- **Mock interview practice + recruiter-ready resume**
+    
+- **Industry familiarity** with Rakuten’s AI and data engineering practices
 
 
 

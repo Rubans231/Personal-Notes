@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Hugging face]] [[machine learning]] [[learning]] [[coding]] [[Computer science]] 
+Tags: [[3 - Tags/Hugging face]] [[machine learning]] [[learning]] [[coding]] [[Computer science]] 
 
 
 
@@ -34,4 +34,4 @@ Tags: [[Hugging face]] [[machine learning]] [[learning]] [[coding]] [[Computer s
 
 
 # References
-[[NLP(Natural language processing)]] 
+[[NLP(Natural language processing)]] https://huggingface.co/learn/llm-course/chapter1/3?fw=pt

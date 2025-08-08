@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/web scraper.md",
+                "file": "1 - Rough Notes/Palindrome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web scraper"
+              "title": "Palindrome"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "e776d38f53428c9a",
   "lastOpenFiles": [
-    "1 - Rough Notes/Two sum.md",
+    "2 - Source Material/Competitive programming/Leetcode.md",
+    "2 - Source Material/Competitive programming",
+    "1 - Rough Notes/Palindrome.md",
     "1 - Rough Notes/web scraper.md",
+    "1 - Rough Notes/Two sum.md",
     "3 - Tags/tools.md",
     "3 - Tags/websites.md",
     "2 - Source Material/Videos/alex.md",
@@ -198,9 +201,6 @@
     "2 - Source Material/Videos/Matthew Berman.md",
     "visual References/Pasted image 20250807223836.png",
     "visual References/Pasted image 20250807223712.png",
-    "1 - Rough Notes/GPT-oss.md",
-    "3 - Tags/Anthropic.md",
-    "1 - Rough Notes/Google's genie 3.md",
     "visual References/Pasted image 20250807223026.png",
     "visual References/Pasted image 20250806213014.png",
     "visual References",

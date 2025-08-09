@@ -32,15 +32,15 @@ https://www.youtube.com/watch?v=cAkMcPfY_Ns&list=TLPQMDcwODIwMjX7RDN5u0VqJA&inde
 
 **Goal:** Build core skills in LLMs & frameworks, start Rakuten AI Toolkit repo.
 
-|Day|Core Skills|Project Work|Industry Awareness|Public Profile|
-|---|---|---|---|---|
-|1|Read Hugging Face Course Ch. 1–2 (Transformers, Tokenizers)|Create “Rakuten AI Toolkit” GitHub repo|Google Alerts for “Rakuten India” & follow Rakuten Eng Blog|LinkedIn post: “Starting my 45-Day ML Internship Bootcamp”|
-|2|HF Ch. 3–4 (Datasets, Trainer)|Load pretrained model (`bert-base-uncased`) & run inference|Read Rakuten AI-related blog post|Commit inference code|
-|3|HF Ch. 5–6 (Inference API, Pipelines)|Test `text-generation` & `question-answering`|Read 1 arXiv paper on LLMs|Write short summary in repo README|
-|4|HF Ch. 7–8 (Training basics)|Build simple sentiment classifier using HF pipeline|Explore FAISS basics|Commit code + requirements.txt|
-|5|HF Ch. 9–10 (Custom training loops)|Run local fine-tune on small dataset|Read “LangChain Prompt Templates” docs|LinkedIn post: “Intro to Hugging Face for LLMs”|
-|6|LangChain Quickstart (prompt templates, chains, memory)|Create basic prompt chain with OpenAI API or LLaMA2|Read Rakuten search/recommendation patent|Push LangChain example|
-|7|Review & mini quiz (self-test)|Document Rakuten AI Toolkit|Skim Hacker News ML posts|Weekly blog: “Week 1 – From Hugging Face to LangChain”|
+| Day | Core Skills                                                 | Project Work                                                | Industry Awareness                                          | Public Profile                                             |
+| --- | ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------- |
+| 1   | Read Hugging Face Course Ch. 1–2 (Transformers, Tokenizers) | Create “Rakuten AI Toolkit” GitHub repo                     | Google Alerts for “Rakuten India” & follow Rakuten Eng Blog | LinkedIn post: “Starting my 45-Day ML Internship Bootcamp” |
+| 2   | HF Ch. 3–4 (Datasets, Trainer)                              | Load pretrained model (`bert-base-uncased`) & run inference | Read Rakuten AI-related blog post                           | Commit inference code                                      |
+| 3   | HF Ch. 5–6 (Inference API, Pipelines)                       | Test `text-generation` & `question-answering`               | Read 1 arXiv paper on LLMs                                  | Write short summary in repo README                         |
+| 4   | HF Ch. 7–8 (Training basics)                                | Build simple sentiment classifier using HF pipeline         | Explore FAISS basics                                        | Commit code + requirements.txt                             |
+| 5   | HF Ch. 9–10 (Custom training loops)                         | Run local fine-tune on small dataset                        | Read “LangChain Prompt Templates” docs                      | LinkedIn post: “Intro to Hugging Face for LLMs”            |
+| 6   | LangChain Quickstart (prompt templates, chains, memory)     | Create basic prompt chain with OpenAI API or LLaMA2         | Read Rakuten search/recommendation patent                   | Push LangChain example                                     |
+| 7   | Review & mini quiz (self-test)                              | Document Rakuten AI Toolkit                                 | Skim Hacker News ML posts                                   | Weekly blog: “Week 1 – From Hugging Face to LangChain”     |
 
 ---
 

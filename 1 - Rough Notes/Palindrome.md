@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Universal math]] [[algorithm]] [[coding]] [[interview]] 
+Tags: [[Universal math]] [[algorithm]] [[coding]] [[interview]] [[easy]] 
 
 
 

@@ -9,8 +9,8 @@ Tags:
 
 
 # TO DO
-## japanese
-learn japanese - https://youtube.com/shorts/OdPQOyarROM?si=gCwGE7gb58b7haJE (Best way to start is to learn hiragana and katakana from duolingo after which i'd need to learn from anki and nativshark)
+## Japanese
+learn Japanese - https://youtube.com/shorts/OdPQOyarROM?si=gCwGE7gb58b7haJE (Best way to start is to learn hiragana and katakana from duolingo after which i'd need to learn from anki and nativshark)
 
 ## Projects
 https://www.youtube.com/watch?v=cAkMcPfY_Ns&list=TLPQMDcwODIwMjX7RDN5u0VqJA&index=2(Neural network from scratch)

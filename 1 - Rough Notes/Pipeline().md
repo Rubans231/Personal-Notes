@@ -51,7 +51,15 @@ Tags: [[Hugging face]] [[machine learning]] [[learning]] [[coding]] [[Computer s
 
 ![[Pasted image 20250808125804.png]]
 
-## Using custom models for pipeline
+## Image and audio pipelines
+# Image classification
+
+![[Pasted image 20250809195416.png]]
+
+# Automatic speech recognition
+
+> ![[Pasted image 20250809195701.png]]
+>- ![[Pasted image 20250809195717.png]]
 
 
 

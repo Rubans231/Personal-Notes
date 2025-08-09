@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Zero shot classification.md",
+                "file": "1 - Rough Notes/wan 2.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zero shot classification"
+              "title": "wan 2.2"
             }
           }
         ]
@@ -167,8 +167,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b34abbdaa12f76cb",
+  "active": "e776d38f53428c9a",
   "lastOpenFiles": [
+    "3 - Tags/Alibaba.md",
+    "1 - Rough Notes/wan 2.2.md",
+    "1 - Rough Notes/GPT-oss.md",
+    "2 - Source Material/Videos/AI Search.md",
+    "1 - Rough Notes/Zero shot classification.md",
     "1 - Rough Notes/Pipeline().md",
     "1 - Rough Notes/TO DO.md",
     "1 - Rough Notes/Transformers.md",
@@ -186,7 +191,6 @@
     "1 - Rough Notes/The golden ratio.md",
     "1 - Rough Notes/Virtual environments.md",
     "1 - Rough Notes/web scraper.md",
-    "1 - Rough Notes/Zero shot classification.md",
     "1 - Rough Notes/Mask filling.md",
     "1 - Rough Notes/Japanese Basics.md",
     "3 - Tags/japanese.md",
@@ -202,9 +206,6 @@
     "3 - Tags/tools.md",
     "3 - Tags/websites.md",
     "2 - Source Material/Videos/alex.md",
-    "1 - Rough Notes/Data structures and Algorithms.md",
-    "Time complexity for Iteration through subset.md",
-    "1 - Rough Notes/inference providers.md",
     "visual References",
     "2 - Source Material/chatbot",
     "1 - Rough Notes/Untitled"

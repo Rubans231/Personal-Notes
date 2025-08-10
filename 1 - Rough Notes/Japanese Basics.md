@@ -45,6 +45,7 @@ Tags: [[learning]] [[japan]] [[japanese]]
 ![[Pasted image 20250809173405.png]]
 ![[Pasted image 20250809173548.png]] 
 ![[Pasted image 20250809173720.png]]
+![[Pasted image 20250810171634.png]]
 
 
 

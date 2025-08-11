@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Japanese Basics.md",
+                "file": "1 - Rough Notes/Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japanese Basics"
+              "title": "Transformers"
             }
           }
         ]
@@ -167,10 +167,16 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e776d38f53428c9a",
+  "active": "b34abbdaa12f76cb",
   "lastOpenFiles": [
+    "visual References/Pasted image 20250811140829.png",
+    "visual References/Pasted image 20250811140713.png",
+    "visual References/Pasted image 20250811140517.png",
+    "visual References/Pasted image 20250811140433.png",
+    "1 - Rough Notes/Roman to integer.md",
+    "1 - Rough Notes/Regular-expression matching.md",
     "1 - Rough Notes/Japanese Basics.md",
-    "Pasted image 20250810171634.png",
+    "visual References/Pasted image 20250810171634.png",
     "1 - Rough Notes/TO DO.md",
     "1 - Rough Notes/LLMs(Large language models).md",
     "1 - Rough Notes/Big O.md",
@@ -190,10 +196,6 @@
     "visual References/Pasted image 20250809194953.png",
     "visual References/Pasted image 20250809194823.png",
     "visual References/Pasted image 20250809194501.png",
-    "visual References/Pasted image 20250809194147.png",
-    "visual References/Pasted image 20250809192443.png",
-    "visual References/Pasted image 20250809192434.png",
-    "1 - Rough Notes/Regular-expression matching.md",
     "1 - Rough Notes/The golden ratio.md",
     "1 - Rough Notes/Virtual environments.md",
     "1 - Rough Notes/web scraper.md",
@@ -203,7 +205,6 @@
     "1 - Rough Notes/Article websites.md",
     "1 - Rough Notes/Palindrome.md",
     "2 - Source Material/Competitive programming/hard.md",
-    "2 - Source Material/Competitive programming/easy.md",
     "2 - Source Material/Competitive programming",
     "visual References",
     "2 - Source Material/chatbot",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Transformers.md",
+                "file": "1 - Rough Notes/FastWAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformers"
+              "title": "FastWAN"
             }
           }
         ]
@@ -167,8 +167,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b34abbdaa12f76cb",
+  "active": "e776d38f53428c9a",
   "lastOpenFiles": [
+    "1 - Rough Notes/Sparse distillation.md",
+    "1 - Rough Notes/FastWAN.md",
+    "1 - Rough Notes/wan 2.2.md",
+    "Pasted image 20250811142528.png",
+    "1 - Rough Notes/Transformers.md",
     "visual References/Pasted image 20250811140829.png",
     "visual References/Pasted image 20250811140713.png",
     "visual References/Pasted image 20250811140517.png",
@@ -182,20 +187,16 @@
     "1 - Rough Notes/Big O.md",
     "1 - Rough Notes/Google's genie 3.md",
     "1 - Rough Notes/GPT-oss.md",
-    "1 - Rough Notes/wan 2.2.md",
     "3 - Tags/opensource.md",
     "3 - Tags/Alibaba.md",
     "2 - Source Material/Videos/AI Search.md",
     "1 - Rough Notes/Zero shot classification.md",
     "1 - Rough Notes/Pipeline().md",
-    "1 - Rough Notes/Transformers.md",
     "visual References/Pasted image 20250809195717.png",
     "visual References/Pasted image 20250809195701.png",
     "visual References/Pasted image 20250809195416.png",
     "1 - Rough Notes/Operations using pipeline.md",
     "visual References/Pasted image 20250809194953.png",
-    "visual References/Pasted image 20250809194823.png",
-    "visual References/Pasted image 20250809194501.png",
     "1 - Rough Notes/The golden ratio.md",
     "1 - Rough Notes/Virtual environments.md",
     "1 - Rough Notes/web scraper.md",
@@ -204,7 +205,6 @@
     "3 - Tags/japan.md",
     "1 - Rough Notes/Article websites.md",
     "1 - Rough Notes/Palindrome.md",
-    "2 - Source Material/Competitive programming/hard.md",
     "2 - Source Material/Competitive programming",
     "visual References",
     "2 - Source Material/chatbot",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/FastWAN.md",
+                "file": "1 - Rough Notes/blank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FastWAN"
+              "title": "blank"
             }
           }
         ]
@@ -167,10 +167,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b34abbdaa12f76cb",
+  "active": "e776d38f53428c9a",
   "lastOpenFiles": [
-    "1 - Rough Notes/Sparse distillation.md",
     "1 - Rough Notes/FastWAN.md",
+    "1 - Rough Notes/blank.md",
+    "1 - Rough Notes/Sparse distillation.md",
     "1 - Rough Notes/wan 2.2.md",
     "visual References/Pasted image 20250811142528.png",
     "1 - Rough Notes/Transformers.md",
@@ -204,7 +205,6 @@
     "3 - Tags/japanese.md",
     "3 - Tags/japan.md",
     "1 - Rough Notes/Article websites.md",
-    "1 - Rough Notes/Palindrome.md",
     "2 - Source Material/Competitive programming",
     "visual References",
     "2 - Source Material/chatbot",

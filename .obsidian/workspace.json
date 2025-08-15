@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/View object in augmented reality.md",
+                "file": "1 - Rough Notes/Fine-tuning backdoor activated LLMs(FAB).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "View object in augmented reality"
+              "title": "Fine-tuning backdoor activated LLMs(FAB)"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "e776d38f53428c9a",
   "lastOpenFiles": [
-    "1 - Rough Notes/smartphone sensors useful for indoor positioning.md",
+    "1 - Rough Notes/LLMs(Large language models).md",
+    "1 - Rough Notes/GPT-oss.md",
+    "1 - Rough Notes/Fine-tuning backdoor activated LLMs(FAB).md",
     "1 - Rough Notes/View object in augmented reality.md",
+    "1 - Rough Notes/smartphone sensors useful for indoor positioning.md",
     "1 - Rough Notes/AI Tutor.md",
     "1 - Rough Notes/Electromagnetic-based.md",
     "visual References/Pasted image 20250814164917.png",
@@ -196,10 +199,8 @@
     "1 - Rough Notes/Regular-expression matching.md",
     "1 - Rough Notes/Japanese Basics.md",
     "visual References/Pasted image 20250810171634.png",
-    "1 - Rough Notes/LLMs(Large language models).md",
     "1 - Rough Notes/Big O.md",
     "1 - Rough Notes/Google's genie 3.md",
-    "1 - Rough Notes/GPT-oss.md",
     "3 - Tags/opensource.md",
     "3 - Tags/Alibaba.md",
     "2 - Source Material/Videos/AI Search.md",

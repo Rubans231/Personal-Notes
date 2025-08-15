@@ -27,7 +27,7 @@ Tags: [[ideas]] [[TO DO]] [[Project Ideas]]
 ## Approach 1: Using 3-D recreation
 
 >- We first map out the 3-d space and objects surrounding the position where we wish to place the virtual object
->- Then we place a virtual marker(Spatial anchor) and recreate the mapping of the virtual object at the place where we want our virtual object on the generated 3-d space
+>- Then we place a virtual marker(Spatial anchor ) and recreate the mapping of the virtual object at the place where we want our virtual object on the generated 3-d space
 >- To generate the 3-d mapping we have a few viable ways:
 >	- The most common method we could use is "Simultaneous Localization and Mapping(SLAM)". It is the method where a device or robot constructs a map of its surroundings while simultaneously tracking its own location within that map.
 >- we can rely on SLAM to compute the positioning and the pose of the device relative to the virtual object
@@ -35,8 +35,19 @@ Tags: [[ideas]] [[TO DO]] [[Project Ideas]]
 
 ## Approach 2: Map out just the surface
 
->- Here we map out just the surface where the virtual object is to be placed
+>- Here we map out just the surface where the virtual object is to be placed (_User-Defined Marker-less AR or simple edge detection_)
 >- Then, we can use the input from inertial measurement unit present in smartphones such as accelerometers and gyroscopes to compute the orientational displacement of the device from the initial point to calculate the current position and orientation away from the virtual object
+
+
+## Approach 3: AI for 3-d reconstruction
+
+>- Use something like Luma AI to map out the 3-d space
+>- Then place the virtual object on the 3-D space
+
+## Approach 4: Use Google's ARcore
+
+>- This Google's AR application can just track motion(using gyro and accelerometer), understand environment(detect table, wall, etc..) and estimate light(Guesses how bright the room is and makes the virtual object cast realistic shadows)
+>- Can use a Depth model like Midas or just the model built inside ARcore for estimating the distance between objects
 
 
 

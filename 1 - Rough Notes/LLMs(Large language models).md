@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[3 - Tags/Hugging face]] [[machine learning]] [[learning]] [[coding]] [[Computer science]] 
+Tags: [[Hugging face]] [[machine learning]] [[learning]] [[coding]] [[Computer science]] 
 
 
 

@@ -47,6 +47,62 @@ Tags: [[learning]] [[japan]] [[japanese]]
 ![[Pasted image 20250809173720.png]]
 ![[Pasted image 20250810171634.png]]
 
+## Lecture 2
+
+![[Pasted image 20250815220719.png]]
+![[Pasted image 20250815221027.png]]
+![[Pasted image 20250815221158.png]]
+![[Pasted image 20250815221304.png]]
+![[Pasted image 20250815221425.png]]
+![[Pasted image 20250815221536.png]]
+![[Pasted image 20250815221649.png]]
+![[Pasted image 20250815221926.png]]
+![[Pasted image 20250815222247.png]]
+![[Pasted image 20250815222311.png]]
+![[Pasted image 20250815222920.png]]
+![[Pasted image 20250815223114.png]]
+![[Pasted image 20250815223333.png]]
+![[Pasted image 20250815223357.png]]
+![[Pasted image 20250815223513.png]]
+![[Pasted image 20250815223629.png]]
+![[Pasted image 20250815223704.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # References
+[[NPTEL]] 

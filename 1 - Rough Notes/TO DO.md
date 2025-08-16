@@ -12,6 +12,28 @@ Tags:
 ## Japanese
 learn Japanese - https://youtube.com/shorts/OdPQOyarROM?si=gCwGE7gb58b7haJE (Best way to start is to learn hiragana and katakana from duolingo after which i'd need to learn from anki and nativshark)
 
+Discord servers to try meeting new japanese people for language learning:
+
+- **Japanese English International School** (日英国際学校) [https://discord.gg/Q5KaNfT](https://discord.gg/Q5KaNfT)
+    
+- **Japanese & English** (日本語と英語) [https://discord.gg/STHgA9z](https://discord.gg/STHgA9z)
+    
+- **Let's Learn Japanese** (日本語を勉強しましょう) [https://discord.gg/XyJwPEG](https://discord.gg/XyJwPEG)
+    
+- **Nihongo** (日本語) [https://discord.gg/jBv42Ax](https://discord.gg/jBv42Ax)
+    
+- **Learning Japanese (becauseofdreams)** [https://discord.gg/NDhqJJJ](https://discord.gg/NDhqJJJ)
+    
+- **Let's aim for Japanese mastery** (目指そう、日本語マスター！) [https://discord.gg/aGvhaPf](https://discord.gg/aGvhaPf)
+    
+- **Everyday English and Japanese** (毎日英語と日本語) [https://discord.gg/MGePVZB](https://discord.gg/MGePVZB)
+    
+- **Japanese study group** (日本語の勉強会) [https://discord.gg/ApTPFqa](https://discord.gg/ApTPFqa)
+    
+- **Nihongo** (日本語) [https://discord.gg/MHM9cMC](https://discord.gg/MHM9cMC)
+    
+- **Study Japanese** [https://discord.gg/vCpSFJ8](https://discord.gg/vCpSFJ8)
+
 ## **Daily Structure**
 
 - **2 hrs – Core ML Skills** (theory + coding)

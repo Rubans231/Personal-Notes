@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[ideas]] [[TO DO]] [[Project Ideas]] 
+Tags: [[ideas]] [[TO DO]] [[Project Ideas]] [[augmented reality]]  
 
 
 

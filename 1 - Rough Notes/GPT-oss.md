@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[LLMs(Large language models)]] [[OpenAI]] 
+Tags: [[LLMs(Large language models)]] [[OpenAI]] [[textgeneration]] [[aitools]] 
 
 
 

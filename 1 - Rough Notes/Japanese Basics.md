@@ -6,8 +6,6 @@ Status:
 Tags: [[learning]] [[japan]] [[japanese]] 
 
 
-
-
 # Japanese writing
 
 >- There are no spaces in-between words

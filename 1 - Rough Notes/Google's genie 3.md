@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[LLMs(Large language models)]] [[Google]] 
+Tags: [[LLMs(Large language models)]] [[Google]] [[worldgeneration]] [[aitools]] 
 
 
 

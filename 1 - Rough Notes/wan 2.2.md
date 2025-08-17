@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[LLMs(Large language models)]] [[Alibaba]] [[opensource]] 
+Tags: [[LLMs(Large language models)]] [[Alibaba]] [[opensource]] [[aitools]] [[videogeneration]] 
 
 
 

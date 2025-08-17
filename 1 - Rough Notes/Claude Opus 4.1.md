@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[LLMs(Large language models)]] [[Anthropic]] 
+Tags: [[LLMs(Large language models)]] [[Anthropic]] [[aitools]] [[textgeneration]] 
 
 
 

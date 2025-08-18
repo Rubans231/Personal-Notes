@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Sparse distillation.md",
+                "file": "1 - Rough Notes/Google's genie 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sparse distillation"
+              "title": "Google's genie 3"
+            }
+          },
+          {
+            "id": "8d255edb4d1f1d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emergent Properties in LLMs do follow the laws of math.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emergent Properties in LLMs do follow the laws of math"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,10 +183,17 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "e776d38f53428c9a",
+  "active": "8d255edb4d1f1d68",
   "lastOpenFiles": [
-    "1 - Rough Notes/StableAvatar.md",
+    "3 - Tags/selfTheory.md",
+    "Emergent Properties in LLMs do follow the laws of math.md",
+    "1 - Rough Notes/Google's genie 3.md",
+    "1 - Rough Notes/NLP(Natural language processing).md",
+    "1 - Rough Notes/wan 2.2.md",
+    "1 - Rough Notes/GPT-oss.md",
+    "1 - Rough Notes/Gran Turismo Sophy.md",
     "1 - Rough Notes/Sparse distillation.md",
+    "1 - Rough Notes/StableAvatar.md",
     "1 - Rough Notes/VertexRegen.md",
     "3 - Tags/3dgeneration.md",
     "visual References/Pasted image 20250817155717.png",
@@ -191,20 +214,13 @@
     "1 - Rough Notes/Matrix 3-D.md",
     "1 - Rough Notes/YAN.md",
     "1 - Rough Notes/Matrix-Game 2.0.md",
-    "1 - Rough Notes/wan 2.2.md",
     "3 - Tags/Interactive video.md",
     "1 - Rough Notes/Claude Opus 4.1.md",
     "1 - Rough Notes/Story2Board.md",
     "1 - Rough Notes/Tooncomposer.md",
-    "1 - Rough Notes/Google's genie 3.md",
     "1 - Rough Notes/region-wise control.md",
     "1 - Rough Notes/FastWAN.md",
-    "1 - Rough Notes/GPT-oss.md",
     "3 - Tags/aitools.md",
-    "3 - Tags/videogeneration.md",
-    "3 - Tags/textgeneration.md",
-    "3 - Tags/worldgeneration.md",
-    "3 - Tags/imagegenerator.md",
     "linuxobsi",
     "linux",
     "2 - Source Material/Competitive programming",

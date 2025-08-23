@@ -64,7 +64,18 @@ Tags: [[learning]] [[japan]] [[japanese]]
 ![[Pasted image 20250815223513.png]]
 ![[Pasted image 20250815223629.png]]
 ![[Pasted image 20250815223704.png]]
-
+![[Pasted image 20250823133633.png]]
+![[Pasted image 20250823133702.png]]
+![[Pasted image 20250823133845.png]]
+![[Pasted image 20250823134027.png]]
+![[Pasted image 20250823134553.png]]
+![[Pasted image 20250823134813.png]]
+![[Pasted image 20250823134826.png]]
+![[Pasted image 20250823135650.png]]
+![[Pasted image 20250823135817.png]]
+![[Pasted image 20250823140047.png]]
+![[Pasted image 20250823140134.png]]
+![[Pasted image 20250823140359.png]]
 
 
 

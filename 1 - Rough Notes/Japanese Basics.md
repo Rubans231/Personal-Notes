@@ -12,6 +12,7 @@ Tags: [[learning]] [[japan]] [[japanese]]
 ### Hiragana
 >- rounded alphabets
 >- used for Japanese origin words and to show different tenses of verbs and to show different verb forms
+>- Wi and We are no longer used as they are both replaced by i and e
 
 ![[Pasted image 20250809170809.png]]
 
@@ -76,6 +77,7 @@ Tags: [[learning]] [[japan]] [[japanese]]
 ![[Pasted image 20250823140047.png]]
 ![[Pasted image 20250823140134.png]]
 ![[Pasted image 20250823140359.png]]
+
 
 
 

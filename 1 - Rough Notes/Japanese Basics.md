@@ -65,6 +65,7 @@ Tags: [[learning]] [[japan]] [[japanese]]
 ![[Pasted image 20250815223513.png]]
 ![[Pasted image 20250815223629.png]]
 ![[Pasted image 20250815223704.png]]
+## Lecture 3
 ![[Pasted image 20250823133633.png]]
 ![[Pasted image 20250823133702.png]]
 ![[Pasted image 20250823133845.png]]
@@ -78,6 +79,45 @@ Tags: [[learning]] [[japan]] [[japanese]]
 ![[Pasted image 20250823140134.png]]
 ![[Pasted image 20250823140359.png]]
 
+## Lecture 4
+
+![[Pasted image 20250829215320.png]]
+![[Pasted image 20250829215347.png]]
+![[Pasted image 20250829215632.png]]
+![[Pasted image 20250829215745.png]]
+![[Pasted image 20250829220114.png]]
+![[Pasted image 20250829220427.png]]
+![[Pasted image 20250829220641.png]]
+![[Pasted image 20250829220912.png]]
+![[Pasted image 20250829221051.png]]
+![[Pasted image 20250829221235.png]]
+![[Pasted image 20250829221450.png]]
+![[Pasted image 20250829221728.png]]
+![[Pasted image 20250829222003.png]]
+![[Pasted image 20250829222030.png]]
+![[Pasted image 20250829222206.png]]
+![[Pasted image 20250829222312.png]]
+
+- pen=pen
+- enpitsu=pencil
+- kaban=bag
+- shosetsu=novel
+- kyokasho=textbook
+- kagi=keys
+- kasa=umbrella
+- megane=spectacles
+
+![[Pasted image 20250829222706.png]]
+![[Pasted image 20250829222755.png]]
+![[Pasted image 20250829222807.png]]
+![[Pasted image 20250829222938.png]]
+![[Pasted image 20250829223029.png]]
+![[Pasted image 20250829223103.png]]
+![[Pasted image 20250829223307.png]]
+![[Pasted image 20250829223417.png]]
+![[Pasted image 20250829223507.png]]
+![[Pasted image 20250829223716.png]]
+![[Pasted image 20250829223910.png]]
 
 
 

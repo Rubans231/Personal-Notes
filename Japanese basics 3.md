@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[japanese]]
+Tags: [[japanese]] [[japan]] [[Japanese Basics]] 
 
 
 
@@ -24,6 +24,9 @@ kaigi = meeting
 kaisha = office
 bangumi = program
 jyuku = coaching class
+hiru = noon/12'o clock
+yasumi = break/ holiday/ vacation
+hiru yasumi = lunch break
 ![[Pasted image 20250907141444.png]]
 ![[Pasted image 20250907141719.png]]
 ![[Pasted image 20250907142106.png]]
@@ -50,6 +53,34 @@ so desu ne = asking for time before answering
 ![[Pasted image 20250907150309.png]]
 ![[Pasted image 20250907150407.png]]
 ![[Pasted image 20250907150434.png]]
+
+## Lecture-08
+
+![[Pasted image 20250908211111.png]]
+![[Pasted image 20250908211343.png]]
+![[Pasted image 20250908211540.png]]
+![[Pasted image 20250908220322.png]]
+![[Pasted image 20250908220811.png]]
+![[Pasted image 20250908220831.png]]
+![[Pasted image 20250908221330.png]]
+![[Pasted image 20250908221508.png]]
+![[Pasted image 20250908221656.png]]
+![[Pasted image 20250908221710.png]]
+![[Pasted image 20250908221808.png]]
+![[Pasted image 20250908221912.png]]
+![[Pasted image 20250908222021.png]]
+![[Pasted image 20250908222134.png]]
+![[Pasted image 20250908222235.png]]
+![[Pasted image 20250908222320.png]]
+![[Pasted image 20250908222431.png]]
+![[Pasted image 20250908222537.png]]
+![[Pasted image 20250908222805.png]]
+![[Pasted image 20250908223118.png]]
+![[Pasted image 20250908223604.png]]
+you = day of the week(yobi)
+![[Pasted image 20250908223800.png]]
+![[Pasted image 20250908223934.png]]
+![[Pasted image 20250908224014.png]]
 
 
 

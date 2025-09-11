@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/Data Structures.md",
+                "file": "1 - Rough Notes/Cosine similarity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structures"
+              "title": "Cosine similarity"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "0e7d5c1194ec2469",
   "lastOpenFiles": [
+    "1 - Rough Notes/Data Structures.md",
     "visual References/Pasted image 20250911222004.png",
     "1 - Rough Notes/Cosine similarity.md",
     "1 - Rough Notes/TF-IDF.md",

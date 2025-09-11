@@ -1,0 +1,34 @@
+
+2025-09-09 19:43
+
+Status:
+
+Tags: [[learning]] [[coding]] [[Computer science]] [[opensource]] 
+
+
+
+
+# Github repositories
+
+1. Awesome lists: [https://github.com/sindresorhus/awesome](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbS1wZFJoM0lGMW5WLTd1VUppd3V5Q0hBaVNHQXxBQ3Jtc0ttN0xjTmlLU2pDWmVoWXVOdGxzVjZVajRFbzdQVTNXemZtSEI5VnFnbTh3VlhQY3ZFNUlRbGpVNk1JU0c5TFBDR3NJY2s3aVl5SU43eWZ5cFc4ZGVHSVhVLW1qLUlObEtFVHRGRlRnb1V3enRXbVBuYw&q=https%3A%2F%2Fgithub.com%2Fsindresorhus%2Fawesome&v=cgOPg5cCr2g) 
+2. The Algorithms: [https://github.com/thealgorithms](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjVRS19kNFRVMnVONmxlbFJ3b2plWFd5dVlFUXxBQ3Jtc0trVTZ2eDhQRFBfV0JNZ2RGWnVMbWE0dzVub0pqT1JNMUtCRlgwbzZpQUdYQi1WZFZUOVZ3MHhzeTJxNTNkRGhhNzQ0djhESDdOOHAxSFNqc01TSVlHU0YwaW5vZkdZRnp5aUFnbGFnRkNXSzN5WTNxOA&q=https%3A%2F%2Fgithub.com%2Fthealgorithms&v=cgOPg5cCr2g) 
+3. Build Your Own X: [https://github.com/codecrafters-io/bu...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbExDLV9sRThWd09obGJHQjhZSXlEd0N0dHlUUXxBQ3Jtc0tublNnMzZNTV9CLUgxc0FDb1N6ckpCM0Q0czdlSUlCeVJybWlhQ2lxOXpjcy1sWUVfdm1RZWgyTnlDWUJVMUsyRGJ0cVBnSDNHNENodEJpMXJVbDR5SVlpUkJFbTEyNnVoRHBJWl9nUXQyWUlWblVFWQ&q=https%3A%2F%2Fgithub.com%2Fcodecrafters-io%2Fbuild-your-own-x&v=cgOPg5cCr2g) 
+4. Free For Dev: [https://github.com/ripienaar/free-for...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZjbVowZ1ptNDBrMnJMTTVocFdFZ0F6OENSQXxBQ3Jtc0tuT1hfMkJOOXNjTXJXUF9NbHVhbXA2Ukh3ZTV3NXNBd1lIRG01NHNvMF80azdiaUs0MERQTUlQWFVqY191OWowWnhIR2pXdGl3Y1VSbnUzODlRWmJKU3RrejJzTmpVSlR2Yjd1U0N4ck9zcE81b01IYw&q=https%3A%2F%2Fgithub.com%2Fripienaar%2Ffree-for-dev&v=cgOPg5cCr2g) 
+5. Free Programming Books: [https://github.com/EbookFoundation/fr...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW91RUo0S3VMWVZ5ckMyUkFKalM5ZE5vRkJSUXxBQ3Jtc0trVVk0VlpQTlZud19uWDlXWlhYQjktUkt4ZEIzbVRfZlRYRmRIV3lSWDJPemc3eDhkSVJCaDBhTmV3WEVwTlZiSV81SXRoc0g2bE8xblkzV1pDNEZYM1ZnQ1d3WjBBN2MzaEVXMUQzem1xU2t4SjU0Zw&q=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&v=cgOPg5cCr2g) 
+6. Roadmap.sh: [https://github.com/kamranahmedse/deve...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVhYSjg3bW9sQUlyYTR3aUotOFBFVWFaR1BVQXxBQ3Jtc0tudXlpOE1XVGRUWDFtSnlIOGJhS2RwVlVOVGdld2FDZjMwQjNQaHBwQ3pIUzFWc05ycDFRbzE1SDlIV3QwZUhMZnRfNnByOVlwd2Z0MTlYVm5fYVVhVHpZaVlybTRQS2t2Yk1oSW02M3hhVEZFWWoyOA&q=https%3A%2F%2Fgithub.com%2Fkamranahmedse%2Fdeveloper-roadmap&v=cgOPg5cCr2g) 
+7. Computer Science: [https://github.com/ossu/computer-science](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGRLeW9mb2cxUEU5TlpMU2d4LXlDZ1BpZ0RJUXxBQ3Jtc0tuekJSMkc2LURzU3V3YURuamhHa3JaSGd6c1BNVTd3a0l4T1EySWJkOS14aFFway00ZjZoNllJSjg1aUpIc3dJUkJqX0ZJYUx0S0QtdWxqZUpxbmxuTElRZUxsNF9OTVN2cVRnS3pzX2NkaU0ycDNxVQ&q=https%3A%2F%2Fgithub.com%2Fossu%2Fcomputer-science&v=cgOPg5cCr2g) 
+8. Engineering Blogs: [https://github.com/kilimchoi/engineer...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0R4ZklhVDZuNVhwTnRaY1g2UzRIYmRBQWVGZ3xBQ3Jtc0tteXFiOE5yQmg1RjMxRWVQSDNDYTFPOEYyb0habzU2b1dXek9pQXdQSkcxZFB5d3o0UUxlaWVKSmd3X21tNE50Rk54c3hmei1HdDA0NDZxeTFvYkNLX3M0aVRXUFB4bFJiRjFleEN5ak9vU2hoQTNvSQ&q=https%3A%2F%2Fgithub.com%2Fkilimchoi%2Fengineering-blogs&v=cgOPg5cCr2g) 
+9. System Design Primer: [https://github.com/donnemartin/system...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFd5V3FhbTRSUC02MnVGenVIc2V2YndiUGE1UXxBQ3Jtc0ttMUc1OEQzMlJacm5SWHFXV1pBQm80N1hnWHFLNkNBR2pEQ1FoQWYxUnhzc0otWkl5TV9xNUNFeDBHUi0zUjIyZEtaR3R2dWJ2TWp1WUdfY0NTRjNudlRvMFZDeE1UMU53dnVqR1RyVXJkeXRua19SZw&q=https%3A%2F%2Fgithub.com%2Fdonnemartin%2Fsystem-design-primer&v=cgOPg5cCr2g) 
+10. Public APIs: [https://github.com/public-apis/public...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFzdVVDN2QwazNEaHNrNkFHMUFtSHplUVFrd3xBQ3Jtc0trczdyX3RxZGlTa3NLTldnZTF6QkIzZmZLcUNKRVBOQ1o3WkFuR1JTcVRfc0JUX1o4V0hTR21fSkV5RlFWVVMwYkY2bmxVTV9jdV81emdnVUpXTU1TdERpeDFQRWJVMXFKVDViRXB3Q1pUcVluT2gtaw&q=https%3A%2F%2Fgithub.com%2Fpublic-apis%2Fpublic-apis&v=cgOPg5cCr2g) 
+11. Open Source Alternatives: [https://github.com/btw-so/open-source...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFFKSmluS0piMTJoWGxCQmY4ek9SNUNmN3VOUXxBQ3Jtc0tubHVzNjVvdjhZcVA0X3pOQmp0bzR4YXYyM21qSTJZdXhtTVBlY0xNQ3JDTklTd0Q2VGhPVm0zOWpEajV4N2VSTlBnWkl6ZS02MEkwaWhzQVNiTVducl9vWWE5dGVHcHU5Tzh0SFRHbmtzNVFsQk9Vaw&q=https%3A%2F%2Fgithub.com%2Fbtw-so%2Fopen-source-alternatives&v=cgOPg5cCr2g) 
+12. Papers We Love: [https://github.com/papers-we-love/pap...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHlrN2hCODJfSEpkZXZYMmdtaTFPSjBxMGt1Z3xBQ3Jtc0tsV1RNcFZtS3VNbEhQT0FKUmFhZVlfZ0ZtYnFMcFkzVmEtUVBoSThqMXYwU2J5RWlUb3hJNFpLWklHNU1RaE9DSFlJSDY3QnZlRjZweXgtQmZ5dUFyb0NQZDNzOElTOE1HVG02Mmp6TXdRNGZkWm5Cbw&q=https%3A%2F%2Fgithub.com%2Fpapers-we-love%2Fpapers-we-love&v=cgOPg5cCr2g) 
+13. Best Websites A Programmer Should Visit: [https://github.com/sdmg15/Best-websit...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2pmQTBMeVRvaDhIbjQ0TFk5d3JLNTRVUWhLd3xBQ3Jtc0trcHQzZFFPdFA4RTVWLVZhYk1WWnUwakVHNWZidGRlUEZXNXJDbS1qR0FCamtob0g0SW5kSDlPOUhFUG5ObXh6OHRSdlZpdDBhVVdqM2xlZllKS0NCa2lDNy1vYTBUdU5nd09QNG1VQkVCN2I2QWlmYw&q=https%3A%2F%2Fgithub.com%2Fsdmg15%2FBest-websites-a-programmer-should-visit&v=cgOPg5cCr2g) 
+14. LLMs From Scratch: [https://github.com/rasbt/LLMs-from-sc...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0Q0QWJLQmloSXJPQW9lOXhVblpfdlVtUVBmZ3xBQ3Jtc0tsYTdzVjBnS0ZGSXBDdzFId1lNc09NSjlXbUdyTlFYT2FaRnNsT3ByNVloOFBfRDIyOHJBaVJFdGowX3BUM3hCOE9WOE9HMW9XbzY5bDRQdmlGc3pPYURMVG5sa3dTRThDeVVmTXVfWFpBRU8wd0NGOA&q=https%3A%2F%2Fgithub.com%2Frasbt%2FLLMs-from-scratch&v=cgOPg5cCr2g) 
+15. ML From Scratch: [https://github.com/eriklindernoren/ML...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHJnSEp2YkVoUlRoMTRMdVZZV1REeVFQd2Y0QXxBQ3Jtc0tuQnRVLTNXSVFnX0NsUXB2UzFQR1pkeUJsbWlCT1pKSnlxaUtXcnpEQVc0ekt4c0RzUjFfS1Y5SEVXdWFnVE9IMXk5d2JNTnJHaUhBSXA2RkU0SmpYWWlwS1ZUV0x6b0kyOUlwV1pmWkRHdlAzMFNSaw&q=https%3A%2F%2Fgithub.com%2Feriklindernoren%2FML-From-Scratch&v=cgOPg5cCr2g) 
+16. Made With ML: [https://github.com/GokuMohandas/Made-...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUYtaFhEZFVtUVpmRUEweTU2QU9Rd2VKaUp1d3xBQ3Jtc0trbFkxUE5YSWIwbTlScXdEMDNwOWRkbEJnakZXZVpSeDJPeDVrREhyTkxCQjllakJNN3JxaE9MbmZWb1h1XzhxeWNwZ3VfZ0ZJSU5uZXJSRXpwUnpBdkVSVW51eEtsbUs2VEVpdUFMRGI1ZXVMQWhVNA&q=https%3A%2F%2Fgithub.com%2FGokuMohandas%2FMade-With-ML&v=cgOPg5cCr2g)
+
+
+
+
+# References
+https://www.youtube.com/watch?v=cgOPg5cCr2g [[TheCodingSloth]]

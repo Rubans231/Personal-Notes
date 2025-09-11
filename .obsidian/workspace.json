@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese basics 3.md",
+                "file": "1 - Rough Notes/Japanese basics 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Japanese basics 3"
             }
+          },
+          {
+            "id": "5d3e559038c3ed59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Cosine similarity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosine similarity"
+            }
+          },
+          {
+            "id": "0e7d5c1194ec2469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Data Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Structures"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "12a2c2a5c5e849a8",
@@ -170,21 +198,26 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "ce84f92fe48e3598",
+  "active": "0e7d5c1194ec2469",
   "lastOpenFiles": [
-    "Pasted image 20250908224014.png",
-    "Pasted image 20250908223934.png",
-    "Pasted image 20250908223800.png",
-    "Pasted image 20250908223604.png",
-    "Pasted image 20250908223118.png",
-    "Pasted image 20250908222805.png",
-    "Pasted image 20250908222748.png",
-    "Pasted image 20250908222537.png",
-    "Pasted image 20250908222431.png",
-    "Pasted image 20250908222320.png",
-    "Pasted image 20250908222235.png",
+    "visual References/Pasted image 20250911222004.png",
+    "1 - Rough Notes/Cosine similarity.md",
+    "1 - Rough Notes/TF-IDF.md",
+    "NLP(Natural language processing)]  [[recommendation system.md",
+    "3 - Tags/recommendation system.md",
+    "visual References/Pasted image 20250911220107.png",
+    "1 - Rough Notes/Japanese basics 3.md",
+    "visual References/Pasted image 20250909225859.png",
+    "visual References/Pasted image 20250909225530.png",
+    "visual References/Pasted image 20250909225407.png",
+    "visual References/Pasted image 20250909224945.png",
+    "visual References/Pasted image 20250909224730.png",
+    "visual References/Pasted image 20250909224719.png",
+    "visual References/Pasted image 20250909224646.png",
+    "visual References/Pasted image 20250909224439.png",
+    "1 - Rough Notes/Github repositories.md",
+    "3 - Tags/TheCodingSloth.md",
     "1 - Rough Notes/Japanese basics 2.md",
-    "Japanese basics 3.md",
     "1 - Rough Notes/Japanese Basics.md",
     "1 - Rough Notes/AI Tutor.md",
     "1 - Rough Notes/Food additives.md",
@@ -204,12 +237,6 @@
     "1 - Rough Notes/Voost.md",
     "3 - Tags/ClothSwapper.md",
     "1 - Rough Notes/RAG.md",
-    "2 - Source Material/Videos/freecodecamp.md",
-    "1 - Rough Notes/TO DO.md",
-    "1 - Rough Notes/Coding principles.md",
-    "1 - Rough Notes/Emergent Properties in LLMs do follow the laws of math.md",
-    "3 - Tags/selfTheory.md",
-    "1 - Rough Notes/Google's genie 3.md",
     "linuxobsi",
     "linux",
     "2 - Source Material/Competitive programming",

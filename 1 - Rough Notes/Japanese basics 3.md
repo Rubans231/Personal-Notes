@@ -27,6 +27,7 @@ jyuku = coaching class
 hiru = noon/12'o clock
 yasumi = break/ holiday/ vacation
 hiru yasumi = lunch break
+0 = rei
 ![[Pasted image 20250907141444.png]]
 ![[Pasted image 20250907141719.png]]
 ![[Pasted image 20250907142106.png]]
@@ -81,6 +82,33 @@ you = day of the week(yobi)
 ![[Pasted image 20250908223800.png]]
 ![[Pasted image 20250908223934.png]]
 ![[Pasted image 20250908224014.png]]
+## Lecture-09
+![[Pasted image 20250909222306.png]]
+![[Pasted image 20250909222615.png]]
+![[Pasted image 20250909222728.png]]
+![[Pasted image 20250909223027.png]]
+![[Pasted image 20250909223102.png]]
+![[Pasted image 20250909223115.png]]
+![[Pasted image 20250909223126.png]]
+![[Pasted image 20250909223509.png]]
+![[Pasted image 20250909223546.png]]
+![[Pasted image 20250909223909.png]]
+![[Pasted image 20250909223925.png]]
+![[Pasted image 20250909223945.png]]
+![[Pasted image 20250909224123.png]]
+![[Pasted image 20250909224154.png]]
+rai-getsu = next month
+kon getsu = this month
+sarai getsu = the month after
+![[Pasted image 20250909224439.png]]
+arukimasu = to walk
+![[Pasted image 20250909224646.png]]
+![[Pasted image 20250909224719.png]]
+![[Pasted image 20250909224730.png]]
+![[Pasted image 20250909224945.png]]
+![[Pasted image 20250909225407.png]]
+![[Pasted image 20250909225530.png]]
+![[Pasted image 20250909225859.png]]
 
 
 

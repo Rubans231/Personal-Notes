@@ -18,9 +18,9 @@ Tags: [[Universal math]] [[coding]] [[NLP(Natural language processing)]]  [[reco
 
 	Code
 	
-		```
-		Cosine Similarity (A, B) = (A · B) / (||A|| * ||B||)
-		```
+```
+Cosine Similarity (A, B) = (A · B) / (||A|| * ||B||)
+```
 
 	Where:
 	

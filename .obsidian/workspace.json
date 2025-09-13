@@ -39,14 +39,12 @@
             "id": "0e7d5c1194ec2469",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1 - Rough Notes/japanese basics 4.md",
-                "mode": "source",
-                "source": false
+                "file": "visual References/Pasted image 20250914000427.png"
               },
-              "icon": "lucide-file",
-              "title": "japanese basics 4"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250914000427"
             }
           }
         ],
@@ -198,21 +196,22 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0e7d5c1194ec2469",
+  "active": "b34abbdaa12f76cb",
   "lastOpenFiles": [
-    "Pasted image 20250914004144.png",
-    "Pasted image 20250914004131.png",
-    "Pasted image 20250914004119.png",
-    "Pasted image 20250914004027.png",
-    "Pasted image 20250914003942.png",
-    "Pasted image 20250914003834.png",
-    "Pasted image 20250914003730.png",
-    "Pasted image 20250914003219.png",
-    "Pasted image 20250914003206.png",
-    "Pasted image 20250914003002.png",
-    "Pasted image 20250914002820.png",
-    "1 - Rough Notes/Japanese basics 3.md",
+    "conflict-files-obsidian-git.md",
     "1 - Rough Notes/japanese basics 4.md",
+    "1 - Rough Notes/To remember in Pandas.md",
+    "visual References/Pasted image 20250914004144.png",
+    "visual References/Pasted image 20250914004131.png",
+    "visual References/Pasted image 20250914004119.png",
+    "visual References/Pasted image 20250914004027.png",
+    "visual References/Pasted image 20250914003942.png",
+    "visual References/Pasted image 20250914003834.png",
+    "visual References/Pasted image 20250914003730.png",
+    "visual References/Pasted image 20250914003219.png",
+    "visual References/Pasted image 20250914003206.png",
+    "visual References/Pasted image 20250914003002.png",
+    "1 - Rough Notes/Japanese basics 3.md",
     "1 - Rough Notes/Cosine similarity.md",
     "1 - Rough Notes/Data Structures.md",
     "1 - Rough Notes/TF-IDF.md",
@@ -237,7 +236,6 @@
     "Untitled 1.base",
     "1 - Rough Notes/Qwen image edit.md",
     "1 - Rough Notes/FantasyPortrait.md",
-    "1 - Rough Notes/Voost.md",
     "linuxobsi",
     "linux",
     "2 - Source Material/Competitive programming",

@@ -11,14 +11,12 @@
             "id": "0e7d5c1194ec2469",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1 - Rough Notes/Japanese Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "visual References/Pasted image 20250915215936.png"
               },
-              "icon": "lucide-file",
-              "title": "Japanese Basics"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250915215936"
             }
           }
         ]
@@ -169,22 +167,22 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0e7d5c1194ec2469",
+  "active": "b34abbdaa12f76cb",
   "lastOpenFiles": [
-    "Pasted image 20250915215936.png",
+    "1 - Rough Notes/Japanese Basics.md",
+    "visual References/Pasted image 20250915215936.png",
     "1 - Rough Notes/TO DO.md",
     "1 - Rough Notes/AI Tutor.md",
     "1 - Rough Notes/japanese basics 4.md",
-    "Pasted image 20250915215617.png",
-    "Pasted image 20250915215551.png",
-    "Pasted image 20250915215535.png",
-    "Pasted image 20250915215504.png",
-    "Pasted image 20250915215427.png",
-    "Pasted image 20250915214653.png",
-    "Pasted image 20250915214506.png",
-    "Pasted image 20250915214151.png",
-    "Pasted image 20250915213932.png",
-    "Pasted image 20250915213626.png",
+    "visual References/Pasted image 20250915215617.png",
+    "visual References/Pasted image 20250915215551.png",
+    "visual References/Pasted image 20250915215535.png",
+    "visual References/Pasted image 20250915215504.png",
+    "visual References/Pasted image 20250915215427.png",
+    "visual References/Pasted image 20250915214653.png",
+    "visual References/Pasted image 20250915214506.png",
+    "visual References/Pasted image 20250915214151.png",
+    "visual References/Pasted image 20250915213932.png",
     "conflict-files-obsidian-git.md",
     "1 - Rough Notes/To remember in Pandas.md",
     "1 - Rough Notes/Japanese basics 3.md",
@@ -196,7 +194,6 @@
     "1 - Rough Notes/Github repositories.md",
     "3 - Tags/TheCodingSloth.md",
     "1 - Rough Notes/Japanese basics 2.md",
-    "1 - Rough Notes/Japanese Basics.md",
     "1 - Rough Notes/Food additives.md",
     "1 - Rough Notes/Easyeffects.md",
     "README.md",

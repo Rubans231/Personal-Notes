@@ -59,6 +59,32 @@ Tags:
 ![[Pasted image 20250915215551.png]]
 ![[Pasted image 20250915215617.png]]
 
+## Lecture-12
+
+![[Pasted image 20250917181040.png]]
+![[Pasted image 20250917181302.png]]
+![[Pasted image 20250917181544.png]]
+![[Pasted image 20250917181829.png]]
+![[Pasted image 20250917181917.png]]
+![[Pasted image 20250917182050.png]]
+![[Pasted image 20250917182250.png]]
+![[Pasted image 20250917183001.png]]
+![[Pasted image 20250917183125.png]]
+![[Pasted image 20250917183159.png]]
+![[Pasted image 20250917190730.png]]
+![[Pasted image 20250917190926.png]]
+![[Pasted image 20250917191043.png]]
+![[Pasted image 20250917191110.png]]
+![[Pasted image 20250917191304.png]]
+![[Pasted image 20250917191553.png]]
+![[Pasted image 20250917191641.png]]
+![[Pasted image 20250917191708.png]]
+![[Pasted image 20250917191919.png]]
+![[Pasted image 20250917192018.png]]
+![[Pasted image 20250917192437.png]]
+![[Pasted image 20250917192526.png]]
+
+
 
 
 

@@ -11,14 +11,12 @@
             "id": "49d8b29c5286132d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Personalized Fashion.md",
-                "mode": "source",
-                "source": false
+                "file": "visual References/Pasted image 20250917181040.png"
               },
-              "icon": "lucide-file",
-              "title": "Personalized Fashion"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250917181040"
             }
           }
         ]
@@ -169,23 +167,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49d8b29c5286132d",
+  "active": "b34abbdaa12f76cb",
   "lastOpenFiles": [
+    "1 - Rough Notes/japanese basics 4.md",
+    "visual References/Pasted image 20250917192526.png",
+    "visual References/Pasted image 20250917192437.png",
+    "visual References/Pasted image 20250917192408.png",
+    "visual References/Pasted image 20250917192018.png",
+    "visual References/Pasted image 20250917191919.png",
+    "visual References/Pasted image 20250917191708.png",
+    "visual References/Pasted image 20250917191641.png",
+    "visual References/Pasted image 20250917191553.png",
+    "visual References/Pasted image 20250917191304.png",
+    "visual References/Pasted image 20250917191110.png",
+    "1 - Rough Notes/Personalized Fashion.md",
     "1 - Rough Notes/TF-IDF.md",
-    "Personalized Fashion.md",
     "1 - Rough Notes/conflict-files-obsidian-git.md",
     "1 - Rough Notes/O&O Shutup.md",
-    "visual References/Pasted image 20250915215936.png",
-    "visual References/Pasted image 20250915215617.png",
-    "visual References/Pasted image 20250915215551.png",
-    "visual References/Pasted image 20250915215535.png",
-    "visual References/Pasted image 20250915215504.png",
-    "visual References/Pasted image 20250915215427.png",
-    "visual References/Pasted image 20250915214653.png",
-    "visual References/Pasted image 20250915214506.png",
-    "visual References/Pasted image 20250915214151.png",
-    "visual References/Pasted image 20250915213932.png",
-    "1 - Rough Notes/japanese basics 4.md",
     "1 - Rough Notes/Blip.md",
     "3 - Tags/windows.md",
     "Untitled 1.base",
@@ -208,7 +206,6 @@
     "Untitled.base",
     "3 - Tags/equalizer.md",
     "3 - Tags/linux.md",
-    "3 - Tags/music.md",
     "linuxobsi",
     "linux",
     "2 - Source Material/Competitive programming",

@@ -11,12 +11,14 @@
             "id": "49d8b29c5286132d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "visual References/Pasted image 20250917181040.png"
+                "file": "1 - Rough Notes/Japanese basics 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250917181040"
+              "icon": "lucide-file",
+              "title": "Japanese basics 6"
             }
           }
         ]
@@ -146,8 +148,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "b732cd88db32f4d6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,19 +180,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b34abbdaa12f76cb",
+  "active": "49d8b29c5286132d",
   "lastOpenFiles": [
+    "Pasted image 20250925220133.png",
+    "Pasted image 20250925220122.png",
+    "Pasted image 20250925220111.png",
+    "Pasted image 20250925220100.png",
+    "Pasted image 20250925220045.png",
+    "Pasted image 20250925220028.png",
+    "Pasted image 20250925215952.png",
+    "Pasted image 20250925215910.png",
+    "Pasted image 20250925215731.png",
+    "Pasted image 20250925215439.png",
+    "Pasted image 20250925215302.png",
+    "1 - Rough Notes/Github repositories.md",
+    "1 - Rough Notes/Japanese basics 6.md",
+    "1 - Rough Notes/Useful Linux packages.md",
+    "1 - Rough Notes/Japanese basics 5.md",
     "1 - Rough Notes/japanese basics 4.md",
-    "visual References/Pasted image 20250917192526.png",
-    "visual References/Pasted image 20250917192437.png",
-    "visual References/Pasted image 20250917192408.png",
-    "visual References/Pasted image 20250917192018.png",
-    "visual References/Pasted image 20250917191919.png",
-    "visual References/Pasted image 20250917191708.png",
-    "visual References/Pasted image 20250917191641.png",
-    "visual References/Pasted image 20250917191553.png",
-    "visual References/Pasted image 20250917191304.png",
-    "visual References/Pasted image 20250917191110.png",
+    "1 - Rough Notes/Japanese basics 3.md",
     "1 - Rough Notes/Personalized Fashion.md",
     "1 - Rough Notes/TF-IDF.md",
     "1 - Rough Notes/conflict-files-obsidian-git.md",
@@ -196,16 +215,11 @@
     "1 - Rough Notes/Data Structures.md",
     "NLP(Natural language processing)]  [[recommendation system.md",
     "3 - Tags/recommendation system.md",
-    "1 - Rough Notes/Japanese basics 3.md",
-    "1 - Rough Notes/Github repositories.md",
     "3 - Tags/TheCodingSloth.md",
     "1 - Rough Notes/Japanese basics 2.md",
     "1 - Rough Notes/Food additives.md",
     "1 - Rough Notes/Easyeffects.md",
-    "README.md",
     "Untitled.base",
-    "3 - Tags/equalizer.md",
-    "3 - Tags/linux.md",
     "linuxobsi",
     "linux",
     "2 - Source Material/Competitive programming",

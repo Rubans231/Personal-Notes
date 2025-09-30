@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Rough Notes/2 stage recommender system.md",
+                "file": "1 - Rough Notes/Japanese basics 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 stage recommender system"
+              "title": "Japanese basics 6"
             }
           }
         ],
@@ -212,8 +212,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -226,8 +226,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "smart-random-note:Open Random Note from Search": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -239,10 +237,10 @@
   },
   "active": "8e7148c13d6e6de2",
   "lastOpenFiles": [
+    "1 - Rough Notes/2 stage recommender system.md",
     "1 - Rough Notes/AI Tutor.md",
     "1 - Rough Notes/Article websites.md",
     "1 - Rough Notes/Tensorflow.md",
-    "1 - Rough Notes/2 stage recommender system.md",
     "README.md",
     "visual References/Pasted image 20250928225015.png",
     "1 - Rough Notes/Personalized Fashion.md",

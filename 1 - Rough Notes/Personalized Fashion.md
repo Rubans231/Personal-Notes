@@ -89,7 +89,7 @@ Tags: [[Project Ideas]] [[coding]]
 
 ## Quick jolt-down notes before zero-th review:
 
-Okay, so the main brain of this whole operation is our fine-tuned Gemini LLM. It's not just a chatbot; it's basically the director of the whole show.
+brain of this whole operation is our fine-tuned Gemini LLM.
 
 n8n is the nervous system. It's the "agentic" software that connects everything. Think of it like a visual flowchart that calls all the other tools (APIs) when Gemini tells it to. So, Gemini says "jump," and n8n builds the workflow to actually do the jumping. It's how we automate the crazy complex stuff without losing our minds.
 

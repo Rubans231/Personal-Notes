@@ -87,6 +87,80 @@ Tags: [[Project Ideas]] [[coding]]
 
 
 
+## Quick jolt-down notes before zero-th review:
+
+Okay, so the main brain of this whole operation is our fine-tuned Gemini LLM. It's not just a chatbot; it's basically the director of the whole show.
+
+n8n is the nervous system. It's the "agentic" software that connects everything. Think of it like a visual flowchart that calls all the other tools (APIs) when Gemini tells it to. So, Gemini says "jump," and n8n builds the workflow to actually do the jumping. It's how we automate the crazy complex stuff without losing our minds.
+
+WORKFLOW 1: The "OMG It Actually Works" Part - Custom Clothes Pipeline (2D Image -> 3D Mesh)
+
+This is our killer feature. A user uploads a photo of their own t-shirt, and our app makes it wearable. This whole thing is an automated, hands-off agentic process.
+
+User Uploads a Pic: Let's say, a photo of a band t-shirt.
+
+n8n Workflow Kicks Off: The upload is the trigger.
+
+Gemini Agent Takes Over: It gets the goal: "Turn this image into a 3D asset with physics." It then breaks it down:
+
+Step A: "Cut out the shirt."
+
+The agent calls the YOLO-NAS API to find the shirt in the photo and draw a box around it.
+
+Then, it feeds that box prompt to the SAM (Segment Anything Model) API to get a perfect, pixel-precise cutout of just the shirt. No background, just the goods.   
+
+Step B: "Make it 3D."
+
+The agent takes that clean 2D cutout and sends it to the Hunyuan 2.0 API (or something similar like Tripo or CSM).
+
+Hunyuan does its magic and spits out a 3D mesh of the t-shirt. We get a file like an.obj or.glb.
+
+Step C: "Make it move right."
+
+The agent now has the 3D model. It knows it's a "t-shirt," so it needs cloth physics, not, like, brick physics.   
+
+It calls the Bullet physics engine API. It programmatically generates the script/settings needed to make the 3D model drape and fold like actual cloth. No human has to tweak a million physics settings. It's all automated.
+
+End Result: A fully usable, physically simulated 3D model of the user's own clothing item, ready for the virtual try-on. All done by an AI agent in the background. Wild.
+
+WORKFLOW 2: The Real-Time VTON Loop (Putting it all on)
+
+This is what the user sees. It has to be fast and look good, which is why we have to split the work between the phone and a server.
+
+ON THE PHONE (The Lightweight Stuff):
+
+ARCore + ORB-SLAM3: This is for world-tracking. It maps the user's room in real-time so the AR doesn't feel floaty or fake. ARCore handles the basics, and ORB-SLAM3 gives us that extra precision we'll need for smart glasses down the line.   
+
+Camera Feed -> ControlNet (with OpenPose): The camera sees the user. OpenPose instantly creates a stick-figure skeleton of their pose. This skeleton is the "control" signal we send to    
+
+ControlNet. It's how the virtual clothes will copy the user's exact movements.   
+
+Google Filament: This is our renderer. It's built to be fast and pretty on mobile phones. It takes the final image from the server and displays it, making sure it looks realistic with proper lighting and doesn't drain the battery.   
+
+ON THE SERVER (The Heavy Lifting):
+
+The phone sends the OpenPose skeleton data here.
+
+Generative Model (Hunyuan/ControlNet): This is the core image generator. It takes the pose skeleton from ControlNet, the 3D clothing model (from Workflow 1 or our database), and paints a realistic image of the user wearing that item in that specific pose.
+
+Bullet Physics Engine: As the pose changes, Bullet runs a high-fidelity simulation on the 3D model to figure out exactly how the fabric should stretch, fold, and hang. This makes the final render look way more real than just stretching a flat image.
+
+The server sends the finished, rendered image back to the phone.
+
+End Result: The user sees themselves on screen, wearing the virtual item, moving in real-time. It'll feel instant, but it's actually this crazy fast back-and-forth between the phone and the server.   
+
+THE REST OF IT (The Brainy Assistant Features)
+
+This is all handled by our main Gemini agent. It's the personal stylist.
+
+Context-Specific Recs: Gemini will be connected to weather APIs, and the user can give it access to their calendar and physical profile. It will answer questions like, "What should I wear to a casual brunch tomorrow?" by checking the weather, knowing it's a "casual" occasion, and picking stuff from the user's virtual closet.   
+
+Outfit "Upgrade" Suggestions: This is just Gemini being clever. It can look at an outfit and, based on its fashion training data, suggest a swap to make it better (e.g., "This outfit is a 7/10, but if you swapped the boots for heels, it'd be a 9/10").   
+
+FYP & Social Stuff: The same recommendation logic applies. Instead of clothes, it recommends outfits posted by other users you might like. Votes and comments just become more training data for the LLM to figure out what's "in style".   
+
+
+Sources and related content
 
 
 

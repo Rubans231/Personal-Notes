@@ -45,6 +45,44 @@ Tags:
 
 ## Lecture-23
 
+![[Pasted image 20251010070224.png]]
+![[Pasted image 20251010070309.png]]
+![[Pasted image 20251010070324.png]]
+![[Pasted image 20251010070442.png]]
+![[Pasted image 20251010070624.png]]
+![[Pasted image 20251010070653.png]]
+![[Pasted image 20251010070702.png]]
+![[Pasted image 20251010070756.png]]
+![[Pasted image 20251010070814.png]]
+![[Pasted image 20251010070821.png]]
+![[Pasted image 20251010071236.png]]
+![[Pasted image 20251010071427.png]]
+![[Pasted image 20251010071704.png]]
+before kara, verb is always in plain form
+masu form only comes at the end of the sentence
+![[Pasted image 20251010071946.png]]
+![[Pasted image 20251010072128.png]]
+![[Pasted image 20251010072437.png]]
+imouto san is only when talking about second person's sister
+![[Pasted image 20251010072634.png]]
+![[Pasted image 20251010072644.png]]
+![[Pasted image 20251010072910.png]]
+![[Pasted image 20251010072938.png]]
+![[Pasted image 20251010073020.png]]
+![[Pasted image 20251010073116.png]]
+![[Pasted image 20251010073211.png]]
+![[Pasted image 20251010073220.png]]![[Pasted image 20251010073316.png]]
+![[Pasted image 20251010073433.png]]
+![[Pasted image 20251010073505.png]]
+![[Pasted image 20251010073518.png]]
+![[Pasted image 20251010073528.png]]
+![[Pasted image 20251010073553.png]]
+
+
+
+
+
+
 
 
 # References

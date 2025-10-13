@@ -78,6 +78,33 @@ imouto san is only when talking about second person's sister
 ![[Pasted image 20251010073528.png]]
 ![[Pasted image 20251010073553.png]]
 
+## Lecture-24
+
+![[Pasted image 20251012203026.png]]
+![[Pasted image 20251012203112.png]]
+![[Pasted image 20251012203205.png]]
+![[Pasted image 20251012203346.png]]
+![[Pasted image 20251012203412.png]]
+![[Pasted image 20251012203543.png]]
+![[Pasted image 20251012203836.png]]
+![[Pasted image 20251012204019.png]]
+![[Pasted image 20251012204134.png]]
+![[Pasted image 20251012204241.png]]
+![[Pasted image 20251012204252.png]]
+![[Pasted image 20251012204443.png]]
+![[Pasted image 20251012204523.png]]
+![[Pasted image 20251012204612.png]]
+![[Pasted image 20251012204943.png]]
+![[Pasted image 20251012205102.png]]
+![[Pasted image 20251012205251.png]]
+![[Pasted image 20251012205458.png]]
+![[Pasted image 20251012205548.png]]
+![[Pasted image 20251012205704.png]]
+![[Pasted image 20251012205717.png]]
+![[Pasted image 20251012205737.png]]
+![[Pasted image 20251012205835.png]]
+![[Pasted image 20251012210309.png]]
+![[Pasted image 20251012210319.png]]
 
 
 

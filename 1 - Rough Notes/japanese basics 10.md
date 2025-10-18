@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[japanese]] [[japan]] [[Japanese Basics]] 
+Tags: [[Japanese Basics]] 
 
 
 

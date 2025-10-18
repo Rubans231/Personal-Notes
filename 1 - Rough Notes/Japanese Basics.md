@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[learning]] [[japan]] [[japanese]] 
+Tags:  [[japanese]] [[japan]] [[Japanese Basics]] 
 
 
 # Japanese writing

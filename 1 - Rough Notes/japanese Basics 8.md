@@ -1,4 +1,10 @@
 
+2025-10-18 22:57
+
+Status:
+
+Tags: [[Japanese Basics]]
+
 ## Lecture-20
 ![[Pasted image 20251004080330.png]]
 ![[Pasted image 20251004080529.png]]

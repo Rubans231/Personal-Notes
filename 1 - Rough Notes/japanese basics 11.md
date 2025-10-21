@@ -69,6 +69,37 @@ Tags: [[Japanese Basics]]
 ![[Pasted image 20251019222008.png]]
 ![[Pasted image 20251019222101.png]]
 
+## Lecture-30
+
+![[Pasted image 20251021204946.png]]
+![[Pasted image 20251021205146.png]]
+![[Pasted image 20251021205403.png]]
+![[Pasted image 20251021205638.png]]
+![[Pasted image 20251021205931.png]]
+![[Pasted image 20251021210122.png]]
+![[Pasted image 20251021210617.png]]
+![[Pasted image 20251021210633.png]]
+![[Pasted image 20251021210813.png]]
+![[Pasted image 20251021210835.png]]
+![[Pasted image 20251021211007.png]]
+![[Pasted image 20251021211145.png]]
+![[Pasted image 20251021211237.png]]
+![[Pasted image 20251021211338.png]]
+![[Pasted image 20251021211358.png]]
+![[Pasted image 20251021211600.png]]
+![[Pasted image 20251021211625.png]]
+![[Pasted image 20251021213624.png]]
+![[Pasted image 20251021213858.png]]
+![[Pasted image 20251021213911.png]]
+![[Pasted image 20251021213922.png]]
+![[Pasted image 20251021214017.png]]
+![[Pasted image 20251021214114.png]]
+![[Pasted image 20251021214239.png]]
+![[Pasted image 20251021214411.png]]
+![[Pasted image 20251021214423.png]]
+![[Pasted image 20251021214435.png]]
+![[Pasted image 20251021214521.png]]
+
 
 
 

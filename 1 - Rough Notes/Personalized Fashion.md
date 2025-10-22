@@ -93,9 +93,9 @@ brain of this whole operation is our fine-tuned Gemini LLM.
 
 n8n is the nervous system. It's the "agentic" software that connects everything. Think of it like a visual flowchart that calls all the other tools (APIs) when Gemini tells it to. So, Gemini says "jump," and n8n builds the workflow to actually do the jumping. It's how we automate the crazy complex stuff without losing our minds.
 
-WORKFLOW 1: The "OMG It Actually Works" Part - Custom Clothes Pipeline (2D Image -> 3D Mesh)
+WORKFLOW 1: Custom Clothes Pipeline (2D Image -> 3D Mesh)
 
-This is our killer feature. A user uploads a photo of their own t-shirt, and our app makes it wearable. This whole thing is an automated, hands-off agentic process.
+A user uploads a photo of their own t-shirt, and our app makes it wearable. This whole thing is an automated, hands-off agentic process.
 
 User Uploads a Pic: Let's say, a photo of a band t-shirt.
 

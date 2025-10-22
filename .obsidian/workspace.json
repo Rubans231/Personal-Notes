@@ -11,12 +11,14 @@
             "id": "49d8b29c5286132d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "visual References/Pasted image 20251021214521.png"
+                "file": "japanese basics 12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251021214521"
+              "icon": "lucide-file",
+              "title": "japanese basics 12"
             }
           }
         ]
@@ -176,19 +178,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b34abbdaa12f76cb",
+  "active": "49d8b29c5286132d",
   "lastOpenFiles": [
+    "Pasted image 20251022220056.png",
+    "Pasted image 20251022220019.png",
+    "Pasted image 20251022215857.png",
+    "Pasted image 20251022215848.png",
+    "Pasted image 20251022215742.png",
+    "Pasted image 20251022215612.png",
+    "Pasted image 20251022215559.png",
+    "Pasted image 20251022215035.png",
+    "Pasted image 20251022215022.png",
+    "Pasted image 20251022214910.png",
+    "Pasted image 20251022214848.png",
+    "japanese basics 12.md",
     "1 - Rough Notes/japanese basics 11.md",
-    "visual References/Pasted image 20251021214521.png",
-    "visual References/Pasted image 20251021214435.png",
-    "visual References/Pasted image 20251021214423.png",
-    "visual References/Pasted image 20251021214411.png",
-    "visual References/Pasted image 20251021214239.png",
-    "visual References/Pasted image 20251021214114.png",
-    "visual References/Pasted image 20251021214017.png",
-    "visual References/Pasted image 20251021213922.png",
-    "visual References/Pasted image 20251021213911.png",
-    "visual References/Pasted image 20251021213858.png",
+    "1 - Rough Notes/Personalized Fashion.md",
     "1 - Rough Notes/japanese basics 10.md",
     "1 - Rough Notes/Japanese basics 9.md",
     "1 - Rough Notes/japanese Basics 8.md",
@@ -199,7 +204,6 @@
     "1 - Rough Notes/Japanese basics 3.md",
     "1 - Rough Notes/Japanese basics 2.md",
     "1 - Rough Notes/Japanese Basics.md",
-    "1 - Rough Notes/Personalized Fashion.md",
     "1 - Rough Notes/2 stage recommender system.md",
     "conflict-files-obsidian-git.md",
     "Untitled",
@@ -213,7 +217,6 @@
     "1 - Rough Notes/Useful Linux packages.md",
     "1 - Rough Notes/TF-IDF.md",
     "1 - Rough Notes/conflict-files-obsidian-git.md",
-    "1 - Rough Notes/O&O Shutup.md",
     "Untitled 1.base",
     "Untitled.base",
     "linuxobsi",

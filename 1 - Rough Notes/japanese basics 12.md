@@ -71,6 +71,33 @@ takusan is for lots as in countable things while "yoku" is for lots of things wh
 ![[Pasted image 20251023205211.png]]![[Pasted image 20251023205454.png]]
 ![[Pasted image 20251023205704.png]]
  
+## Lecture-33
+![[Pasted image 20251025203515.png]]
+![[Pasted image 20251025203741.png]]
+![[Pasted image 20251025203752.png]]
+![[Pasted image 20251025204047.png]]
+![[Pasted image 20251025204311.png]]
+![[Pasted image 20251025204605.png]]
+![[Pasted image 20251025204934.png]]
+![[Pasted image 20251025204958.png]]
+![[Pasted image 20251025205140.png]]
+![[Pasted image 20251025205210.png]]
+![[Pasted image 20251025205217.png]]
+![[Pasted image 20251025205231.png]]
+![[Pasted image 20251025205417.png]]
+![[Pasted image 20251025205602.png]]
+![[Pasted image 20251025205611.png]]
+![[Pasted image 20251025205840.png]]
+![[Pasted image 20251025210019.png]]
+![[Pasted image 20251025210152.png]]
+![[Pasted image 20251025210353.png]]
+![[Pasted image 20251025210456.png]]
+![[Pasted image 20251025210619.png]]
+![[Pasted image 20251025210737.png]]![[Pasted image 20251025210927.png]]
+![[Pasted image 20251025210935.png]]
+![[Pasted image 20251025211102.png]]
+![[Pasted image 20251025211119.png]]
+![[Pasted image 20251025211135.png]]
 
 
 

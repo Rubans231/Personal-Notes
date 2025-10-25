@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "japanese basics 12.md",
+                "file": "jupyter_notebooks in nvim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "japanese basics 12"
+              "title": "jupyter_notebooks in nvim"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "49d8b29c5286132d",
   "lastOpenFiles": [
+    "japanese basics 12.md",
+    "jupyter_notebooks in nvim.md",
     "Pasted image 20251023205704.png",
     "Pasted image 20251023205454.png",
     "Pasted image 20251023205211.png",
@@ -190,8 +192,6 @@
     "Pasted image 20251023204750.png",
     "Pasted image 20251023204738.png",
     "Pasted image 20251023204551.png",
-    "Pasted image 20251023204430.png",
-    "japanese basics 12.md",
     "1 - Rough Notes/japanese basics 11.md",
     "1 - Rough Notes/Personalized Fashion.md",
     "1 - Rough Notes/japanese basics 10.md",

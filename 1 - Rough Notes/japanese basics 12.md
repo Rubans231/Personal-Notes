@@ -10,6 +10,8 @@ Tags: [[Japanese Basics]]
 
 # japanese basics 12
 
+## Lecture-31
+
 ![[Pasted image 20251022212444.png]]
 ![[Pasted image 20251022212550.png]]
 ![[Pasted image 20251022212627.png]]

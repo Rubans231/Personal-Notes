@@ -10,6 +10,8 @@ Tags:
 
 # japanese basics 13
 
+## Lecture-34
+
 ![[Pasted image 20251028192634.png]]
 ![[Pasted image 20251028192802.png]]
 ![[Pasted image 20251028193016.png]]
@@ -34,6 +36,37 @@ Tags:
 ![[Pasted image 20251028201857.png]]
 ![[Pasted image 20251028202031.png]]
 ![[Pasted image 20251028202108.png]]
+
+## Lecture-35
+![[Pasted image 20251030220926.png]]
+![[Pasted image 20251030221104.png]]
+![[Pasted image 20251030221208.png]]
+![[Pasted image 20251030221331.png]]
+![[Pasted image 20251030221349.png]]
+![[Pasted image 20251030221634.png]]
+![[Pasted image 20251030221758.png]]
+![[Pasted image 20251030221825.png]]
+![[Pasted image 20251030222432.png]]
+![[Pasted image 20251030222534.png]]
+![[Pasted image 20251030222621.png]]
+![[Pasted image 20251030222631.png]]
+![[Pasted image 20251030222704.png]]
+![[Pasted image 20251030223109.png]]
+![[Pasted image 20251030223238.png]]
+![[Pasted image 20251030223342.png]]
+![[Pasted image 20251030223352.png]]
+![[Pasted image 20251030223712.png]]
+![[Pasted image 20251030223959.png]]
+![[Pasted image 20251030224108.png]]
+![[Pasted image 20251030224301.png]]
+![[Pasted image 20251030224447.png]]
+![[Pasted image 20251030224613.png]]
+![[Pasted image 20251030224713.png]]
+![[Pasted image 20251030224754.png]]
+![[Pasted image 20251030224839.png]]
+![[Pasted image 20251030225223.png]]
+![[Pasted image 20251030225300.png]]
+![[Pasted image 20251030225349.png]]
 
 
 

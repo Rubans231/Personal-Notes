@@ -30,6 +30,24 @@ Tags: [[Project Ideas]] [[coding]]
 - Realtime try-on using ORB-SLAM3 with virtual markers for mapping where each individual objects are placed and segment just the objects that could potentially interact with the object and track user movement with controlnet such as openpose so we could track and match the displacement of the user's movement with that of the virtual object 
 - Recommendation system need to be done with 2 stage approach where the first stage is the candidate generation and the second stage is the scoring. Both stages use deep learning models for better adaptability to user likes and needs.
 
+## Implementation
+
+### RT-VTON through user uploaded image
+
+1. **User Action**: Uploads image via web form 
+2. **n8n Pipeline**:
+    
+    - Background removal 
+    - Hunyuan3D 3D model generation 
+    - RAG-LLM physics script (
+    - Upload to S3 + notify backend 
+    
+3. **User Notification**: "Your outfit is ready to try on!" (email/push)
+4. **User Opens App**:
+    - Downloads model + script 
+    - ARCore initializes 
+    - **Real-time try-on begins**
+
 
 ## Existing tech
 

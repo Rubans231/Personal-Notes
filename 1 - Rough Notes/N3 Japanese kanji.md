@@ -15,23 +15,23 @@ Tags: [[japanese]] [[japan]] [[Japanese Basics]]
 ## **Day 1: 氵 (Water) Radical - 15 Kanji Words + 4 Sneak Words**
 
 ### **Kanji Words**
-| Kanji | Kana | Meaning | Radical Story | Example Sentence |
-|-------|------|---------|---------------|------------------|
-| 海 | うみ | sea | Water + 毎 (every) = Water covers everything = sea | 海が好きです (I like the sea) |
-| 活 | かつ | lively | Water + 舌 (tongue) = Water on tongue = active | 生活が忙しい (Life is busy) |
-| 洗 | せん | wash | Water + 先 (before) = Before anything, wash with water | 洗濯をします (I do laundry) |
-| 港 | みなと | harbor | Water + 巷 (alley) = Water alley = harbor | 港に船が来た (A ship came to harbor) |
-| 泳 | およ | swim | Water + 永 (eternal) = In water, move eternally | 泳ぐのが得意 (Good at swimming) |
-| 満 | まん | full | Water fills to full capacity | 満員電車 (Crowded train) |
-| 漢 | かん | Chinese | Water-writing for Chinese characters | 漢字を学ぶ (Learn kanji) |
-| 源 | げん | origin | Water origin is the cause | 原因を調べる (Investigate cause) |
-| 泣 | な | cry | Water standing in eyes = cry | 泣かないで (Don't cry) |
-| 泥 | どろ | mud | Water + soil = mud | 泥棒が来た (A thief came) |
-| 沈 | ちん | sink | Water makes things sink | 船が沈む (Ship sinks) |
-| 浅 | あさ | shallow | Water that's shallow | 浅い川 (Shallow river) |
-| 法 | ほう | law | Water follows law of flow | 法律を守る (Obey law) |
-| 河 | かわ | river | Water river | 河川敷 (Riverbed) |
-| 油 | ゆ | oil | Water-like oil | 油を引く (Add oil) |
+| Kanji | Kana | Meaning | Radical Story                                         | Example Sentence               |
+| ----- | ---- | ------- | ----------------------------------------------------- | ------------------------------ |
+| 海     | うみ   | sea     | Water + 毎 (every) = Water covers everything = sea     | 海が好きです (I like the sea)        |
+| 活     | かつ   | lively  | Water + 舌 (tongue) = Water on tongue = active         | 生活が忙しい (Life is busy)          |
+| 洗     | せん   | wash    | Water + 先 (before) = Before anything, wash with water | 洗濯をします (I do laundry)          |
+| 港     | みなと  | harbor  | Water + 巷 (alley) = Water alley = harbor              | 港に船が来た (A ship came to harbor) |
+| 泳     | およ   | swim    | Water + 永 (eternal) = In water, move eternally        | 泳ぐのが得意 (Good at swimming)      |
+| 満     | まん   | full    | Water fills to full capacity                          | 満員電車 (Crowded train)           |
+| 漢     | かん   | Chinese | Water-writing for Chinese characters                  | 漢字を学ぶ (Learn kanji)            |
+| 源     | げん   | origin  | Water origin is the cause                             | 原因を調べる (Investigate cause)     |
+| 泣     | な    | cry     | Water standing in eyes = cry                          | 泣かないで (Don't cry)              |
+| 泥     | どろ   | mud     | Water + soil = mud                                    | 泥棒が来た (A thief came)           |
+| 沈     | ちん   | sink    | Water makes things sink                               | 船が沈む (Ship sinks)              |
+| 浅     | あさ   | shallow | Water that's shallow                                  | 浅い川 (Shallow river)            |
+| 法     | ほう   | law     | Water follows law of flow                             | 法律を守る (Obey law)               |
+| 河     | かわ   | river   | Water river                                           | 河川敷 (Riverbed)                 |
+| 油     | ゆ    | oil     | Water-like oil                                        | 油を引く (Add oil)                 |
 
 ### **Sneak Words**
 | Word | Meaning | Mnemonic | Example Sentence |

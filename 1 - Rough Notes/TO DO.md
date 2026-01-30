@@ -12,7 +12,21 @@ Tags:
 
 ## Project 
 
+## Weekdays
 
+- During the day go through finishing this list https://www.freecodecamp.org/learn/full-stack-developer-v9/
+- During the evening or in your leisurely time, Get to ComfyUI workflows, OpenCV, PyTorch, fastAPI
+- OpenCV course: https://courses.opencv.org/courses/course-v1:OpenCV+Bootcamp+CV0/course/
+
+## Weekends
+- FUCKING SIT THROUGH THE FOLLOWING TUTORIALS IN WEEKENDS
+- https://www.youtube.com/watch?v=o126p1QN_RI
+- https://www.youtube.com/watch?v=sVcwVQRHIc8&t=1438s
+
+
+## For future
+
+- www.Learncpp.com
 
 
 # References

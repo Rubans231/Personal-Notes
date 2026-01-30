@@ -22,6 +22,7 @@ Tags:
 - FUCKING SIT THROUGH THE FOLLOWING TUTORIALS IN WEEKENDS
 - https://www.youtube.com/watch?v=o126p1QN_RI
 - https://www.youtube.com/watch?v=sVcwVQRHIc8&t=1438s
+- [image models finetune](https://www.youtube.com/watch?v=DPX3eBTuO_Y)
 
 
 ## For future

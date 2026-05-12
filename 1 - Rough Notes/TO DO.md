@@ -24,6 +24,11 @@ Tags:
 - https://www.youtube.com/watch?v=sVcwVQRHIc8&t=1438s
 - [image models finetune](https://www.youtube.com/watch?v=DPX3eBTuO_Y)
 
+## Music
+- download j-pop bangers from tidal.squid.wtf
+- also download the same from spotiflac
+- then do nostalgia and then favorites
+
 
 ## For future
 

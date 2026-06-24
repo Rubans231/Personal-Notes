@@ -1,0 +1,20 @@
+{
+  "primaryNotesLocation": "root",
+  "dailyNotes": {
+    "enabled": true,
+    "directory": "Daily Notes",
+    "titlePattern": "yyyy-MM-dd",
+    "locale": "system",
+    "legacyPatterns": []
+  },
+  "weeklyNotes": {
+    "enabled": false,
+    "directory": "Weekly Notes",
+    "titlePattern": "yyyy-'W'ww",
+    "locale": "system",
+    "legacyPatterns": []
+  },
+  "folderIcons": {},
+  "folderColors": {},
+  "favorites": []
+}

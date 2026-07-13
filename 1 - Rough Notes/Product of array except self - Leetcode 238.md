@@ -3,7 +3,7 @@
 - **Author:**
 - **Started:** 2026-06-28
 - **Status:** Reading
-#Leetcode 
+#Leetcode #Array
 ## Key ideas
 
 # Solution:
